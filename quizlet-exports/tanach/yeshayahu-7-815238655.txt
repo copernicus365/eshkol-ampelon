@@ -1,0 +1,114 @@
+הִגַּדְתָּ | יַגִּיד
++
+He told you | he will tell you
+---
+הגיד / נָגַד (hiphil)
++
+to declare, tell hiph [usually + לְ indir. obj]
+---
+אוּלַי֙ יַגִּ֣יד לָ֔נוּ אֶת־דַּרְכֵּ֖נוּ אֲשֶׁר־הָלַ֥כְנוּ
++
+"Perhaps he will tell us the (our) path which we should take (walk in)" (1 Sam, young Saul)
+---
+מִי הִגִּיד לְךָ֔ כִּ֥י עֵירֹ֖ם אָ֑תָּה
++
+"Who told you that you were na-ed?" (Gen 3)
+---
+נְגַד
++
+drag, draw, lead (Aram.)
+---
+ܢܳܓܽܘܕܳܐ נָגוֹדָא
++
+leader (Aram.)
+---
+: וַיַּעֲנ֨וּ אֶת־יְהוֹשֻׁ֜עַ וַיֹּאמְר֗וּ כִּי֩ הֻגֵּד הֻגַּד לַעֲבָדֶ֙יךָ
++
+"And they answered Joshua: "For it was surely told to your servants" (Joshua, Gibeonites)
+---
+וַיֻּגַּד֙ לְמֶ֣לֶךְ מִצְרַ֔יִם כִּ֥י בָרַ֖ח הָעָ֑ם
++
+"And it was told to the king of Egypt that the people had fled" (Exodus)
+---
+הֻגֵּד
+הֻגַּד
+וַיֻּגַּד֙
++
+* Hophal inf abs - 'being told'
+* Hoph 3ms perf - 'it was told'
+* Hoph 3ms imperf - 'and it was told'
+---
+נֶגֶד נֶגְדְּךָ נֶגְדִּי
++
+subst. what is conspicuous or in front, always as adv. or prep. in front of, in sight of, opposite to, נֶ֑גֶד, cstr. נֶגֶד, sf. נֶגְדִּי ψ 38:11 +, נֶגְדְּךָ 38:10 +, etc.; 
+ • with ה loc. נֶ֫גְדָּה †ψ 116:14, 18;—
+ 1. as adv. accus. in front of
+---
+וַיֻּגַּ֗ד לְבֵ֤ית דָּוִד֙ לֵאמֹ֔ר נָ֥חָֽה אֲרָ֖ם עַל־אֶפְרָ֑יִם
++
+"And it was told to the house of David: 'Aram stands with Ephraim'"
+---
+נָ֥חָֽה אֲרָ֖ם עַל־אֶפְרָ֑יִם
++
+Is 7: Heb "rests upon." Most understand the verb as נוּחַ (nuakh, "rest"), but HALOT II נחה proposes that this is a hapax = "stand by"
+---
+וַיָּ֤נַע לְבָבוֹ֙ וּלְבַ֣ב עַמּ֔וֹ כְּנ֥וֹעַ עֲצֵי־יַ֖עַר מִפְּנֵי־רֽוּחַ
++
+"and his heart shook and the heart of his people shook, like the shaking of the trees of the forest before the wind"
+---
+נוע | וַיָּ֤נַע לְבָבוֹ֙
++
+To shake. "And his heart shook"
+---
+בְּנֶךָ
+וּשְׁאָ֖ר יָשׁ֣וּב בְּנֶ֑ךָ
++
+your son
+"And Shear Yashuv (the remnant shall return) your son"
+---
+תְּעָלָה
++
+Water course. Aqueduct. Channel (for rain)
+---
+אֶל־קְצֵ֗ה תְּעָלַת֙ הַבְּרֵכָ֣ה הָעֶלְיוֹנָ֔ה
++
+and meet Ahaz at the end of the conduit of the upper pool
+---
+אֶל־מְסִלַּ֖ת שְׂדֵ֥ה כוֹבֵס
++
+"on the highway of the washer's field" Isaiah 7:3 (LEB)
+---
+אני כוֹבֵס
++
+I am washing
+---
+הִשָּׁמֵ֨ר וְהַשְׁקֵ֜ט אַל־תִּירָ֗א
++
+Be careful and be quiet! Be not afraid
+---
+זָנָב
+זְנָבוֹ
+ זְנָבוֹת
+זַנְבוֹת
++
+Tail
+His tail
+Tails
+Tails of..
+---
+אַל־יֵרַ֔ךְ מִשְּׁנֵ֨י זַנְב֧וֹת הָאוּדִ֛ים הָעֲשֵׁנִ֖ים הָאֵ֑לֶּה
++
+Be not tender-afraid of these two smouldering tails / fire-sticks
+---
+א֖וּד
++
+Fire-stick
+---
+וַתִּהְי֕וּ כְּא֖וּד מֻצָּ֣ל מִשְּׂרֵפָ֑ה
++
+"And they shall be like a fire-stick snatched from the burning" Amos 4:11
+---
+אִ֚ם לֹ֣א תַאֲמִ֔ינוּ כִּ֖י לֹ֥א תֵאָמֵֽנוּ
++
+"If ye will not believe, ye will not be made secure/safe"
+---

@@ -1,0 +1,177 @@
+עֲרָבָה , בְּעַרְבֹת מוֹאָב
++
+desert-plain, steppe | "in the desert-plains of Moab"
+---
+וּמִגְרָשׁ לֶעָרִים סְבִיבֹתֵיהֶם
++
+"And *pasturelands* for the cities that surround them"
+---
+קֵדְמָה
+נֶגֶב
+יָם
+צָפוֹן
++
+East South West North
+---
+וְהָעִיר בַּתָּוֶךְ
++
+And the city in the midst
+---
+שֵׁשׁ־עָרֵי הַמִּקְלָט אֲשֶׁר תִּתְּנ֔וּ לָנֻס שָׁמָּה הָרֹצֵחַ
++
+Six cities of refuge to which the killer may flee
+---
+מִקְלָט , קָלַט
++
+קָלַט 
+Take up, in, harbour
+
+refuge, asylum (P Ch);—
+ • עָרֵי מ׳ asylum-cities
+---
+מִגְרָשׁ
++
+pastureland (ESV etc)
+grazing land (NET)
+common-land, open land (perhaps orig. pasture-land, as place of [cattle] *driving*) BDB
+---
+(derivatives) גרש / מִגְרָשׁ
++
+גֵּרְשׁוֹן
+son of Levi
+
+גֶּרֶשׁ
+thing thrust or put forth, yield; 
+ • cstr. גֶּרֶשׁ יְרָחִים Dt 33:14 yield, produce of moons
+
+נִגְרַשְׁתִּי Jon 2:5
+
+גֵּרַשְׁתָּ Gn 4:14
+---
+לִבְהֶמְתָּם וְלִרְכֻשָׁם וּלְכֹל חַיָּתָם
++
+"for their cattle, for their possessions, and for all their animals" (NET2)
+---
+Numbers 35:4: מִקִּיר הָעִיר וָחוּצָה
++
+"From the wall of the city and outwards"
+---
+וּמַדֹּתֶם
++
+And ye shall measure
+---
+Numbers 35:5 (LHB): פְּאַת־קֵדְמָה
++
+The eastern side / edge
+---
+ἀμπελών, -ῶνος, ὁ
++
+a vineyard (Greek)
+---
+מִנַּחֲלַת אֲחֻזָּתָם
++
+"from the inheritance of their property / possession"
+---
+וְאִם מִשְּׂדֵה אֲחֻזָּתוֹ יַקְדִּישׁ אִישׁ לַיהוָה
++
+"and if a man dedicates to Y some fields from his inheritance"
+---
+עָרִים לָשָׁבֶת
++
+Cities for dwelling
+---
+וְהִקְרִיתֶם לָכֶם עָרִים
+הִקְרָה
++
+BDB: ye shall SELECT cities as suitable.
+(cause cities to occur rightly for yourselves, i.e.)
+
+ Gen 27:20 כִּי הִקְרָה יְהוָה אֱלֹהֶיךָ לְפָנָֽי
+cause (the right thing, good fortune) to occur
+
+1 Samuel 6:9 (LHB): מִקְרֶה הוּא הָיָה לָנוּ׃
+1 Samuel 6:9 (LEB): it was by chance that this happened to us
+---
+מַכֵּה־נֶ֖פֶשׁ בִּשְׁגָגָֽה, שָׁגַג
++
+go astray, commit sin or error (|| שׁגה, שׁוג)
+
+שִׁגְגָתָם
+---
+וְהָיוּ לָכֶם הֶעָרִים לְמִקְלָט מִגֹּאֵל
++
+Numbers 35:12 (LEB): The cities will be to you a refuge from a redeemer
+---
+Hiphil pass. (Hophal) imperf 3ms קום מות
++
+יוקם / יוּמַת
+---
+יָמִית / יְמִיתֶנּוּ 
+גֹּאֵל הַדָּם הוּא יָמִית אֶת־הָרֹצֵ֑חַ בְּפִגְעֹו‬־בֹו הוּא יְמִיתֶֽנּוּ׃
++
+He shall put to death / he shall put him to death
+
+The avenger﻿ of blood himself must kill the murderer; when he meets him, he must kill him. Num 35:19 (NET2)
+---
+לַהֲדֹף / יֶהְדָּפֶנּוּ 
+ 
+לַהֲדֹף אֶת־כָּל־אֹיְבֶיךָ מִפָּנֶיךָ
+
+וְאִם־בְּשִׂנְאָה יֶהְדָּפֶנּוּ
++
+By driving out all of your enemies before you | Deut 6:19 (LHB)
+
+If he shoves him in hatred, or he throws something at him with intention, and he dies | Num 35:20 (LEB)
+---
+צֹדֶה
+ בִּצְדִיָּה
+
+אוֹ־הִשְׁלִיךְ עָלָיו בִּצְדִיָּה
+
+ וְאַתָּה צֹדֶה אֶת־נַפְשִׁי לְקַחְתָּהּ
++
+BDB: lying-in-wait, with malicious intent
+Adv: By lying in wait
+
+but you are hunting down my life to take it | 1Sam 24:11 (LEB)
+
+If he shoves him in hatred, or he throws something at him with intention, and he dies | Num 35:20 (LEB)
+---
+בְּלֹא־אֵיבָה / בְּלֹא צְדִיָּֽה
++
+Without enmity / without ill intent
+---
+וַיַּפֵּל
++
+Hiph wawc נפל
+---
+וְהֵשִׁיבוּ/ ויָשַׁב 
+
+וְהֵשִׁיבוּ אֹתוֹ הָעֵדָה אֶל־עִיר מִקְלָטוֹ אֲשֶׁר־נָס שָׁמָּה וְיָשַׁב בָּהּ
++
+They shall return him / and he shall dwell
+---
+לָשׁוּב לָשֶׁבֶת בָּאָרֶץ
++
+To return to dwell in the land
+---
+וְלֹא־תַחֲנִיפוּ
+
+וְלֹא־תַחֲנִיפוּ אֶת־הָאָ֗רֶץ 
+
+כִּ֣י הַדָּ֔ם ה֥וּא יַחֲנִ֖יף אֶת־הָאָ֑רֶץ
++
+Ye shall not defile / pollute the land
+
+For the blood(shed) polluted the land
+---
+חנף
+
+Isaiah 24:5 (LHB): וְהָאָ֥רֶץ חָנְפָ֖ה תַּ֣חַת יֹשְׁבֶ֑יהָ כִּֽי־עָבְר֤וּ תוֹרֹת֙ חָ֣לְפוּ חֹ֔ק הֵפֵ֖רוּ בְּרִ֥ית עוֹלָֽם׃
++
+always distorts given orders of existence. This ontological dimension of the straight, healthy, and true that perversion implies lends it the heavy weight of the basic distortion of the world order | TLOT
+---
+כִּ֚י אֲנִ֣י יְהוָ֔ה שֹׁכֵ֕ן בְּת֖וֹךְ בְּנֵ֥י יִשְׂרָאֵֽל
++
+For I am YHWH, who dwells in the midst of the children of Israel
+---
