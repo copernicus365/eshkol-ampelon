@@ -19,15 +19,19 @@ And the city in the midst
 ---
 שֵׁשׁ־עָרֵי הַמִּקְלָט אֲשֶׁר תִּתְּנ֔וּ לָנֻס שָׁמָּה הָרֹצֵחַ
 +
-Six cities of refuge to which the killer may flee
+"six cities of refuge which ye shall set apart to the killer who flees there"
 ---
-מִקְלָט , קָלַט
+מִקְלָט
 +
-קָלַט 
-Take up, in, harbour
-
-refuge, asylum (P Ch);—
- • עָרֵי מ׳ asylum-cities
+refuge, asylum
+---
+עָרֵי הַמִּקְלָט
++
+asylum-cities
+---
+קָלַט
++
+Take up, to take in, to harbor
 ---
 מִגְרָשׁ
 +
@@ -35,38 +39,49 @@ pastureland (ESV etc)
 grazing land (NET)
 common-land, open land (perhaps orig. pasture-land, as place of [cattle] *driving*) BDB
 ---
-(derivatives) גרש / מִגְרָשׁ
+גֵּרַשְׁתָּ
+הֵן֩ גֵּרַ֨שְׁתָּ אֹתִ֜י הַיּ֗וֹם מֵעַל֙ פְּנֵ֣י הָֽאֲדָמָ֔ה וּמִפָּנֶ֖יךָ אֶסָּתֵ֑ר וְהָיִ֜יתִי נָ֤ע וָנָד֙ בָּאָ֔רֶץ וְהָיָ֥ה כָל־מֹצְאִ֖י יַֽהַרְגֵֽנִי
 +
-גֵּרְשׁוֹן
-son of Levi
-
+"You have driven (me) out!"
+"Look! You have driven me out this day from the face of the land, and from before your face shalt I be hidden (/ hide myself). And I shall be a fugitive and a wanderer (NET: a homeless wanderer) in the earth, and it will happen that all who find me will kill me" - Gen 4:14
+---
 גֶּרֶשׁ
-thing thrust or put forth, yield; 
- • cstr. גֶּרֶשׁ יְרָחִים Dt 33:14 yield, produce of moons
-
-נִגְרַשְׁתִּי Jon 2:5
-
-גֵּרַשְׁתָּ Gn 4:14
++
+a thing thrust, put forth; a yield
+---
+גֶּרֶשׁ יְרָחִים
++
+"yield / produce of moons" - Deut 33:14
+---
+ἀμπελών, -ῶνος, ὁ
++
+a vineyard (Greek)
+---
+נִגְרַשְׁתִּי
+וַאֲנִ֣י אָמַ֔רְתִּי נִגְרַ֖שְׁתִּי מִנֶּ֣גֶד עֵינֶ֑יךָ
++
+"I have been driven out"
+"And I said: 'I have been driven out from before your eyes'" - Jonah 2:5
+---
+גֵּרְשׁוֹן
++
+Gershon (son of Levi)
 ---
 לִבְהֶמְתָּם וְלִרְכֻשָׁם וּלְכֹל חַיָּתָם
 +
-"for their cattle, for their possessions, and for all their animals" (NET2)
+"for their cattle, for their possessions, and for all their animals" (NET)
 ---
-Numbers 35:4: מִקִּיר הָעִיר וָחוּצָה
+מִקִּיר הָעִיר וָחוּצָה
 +
-"From the wall of the city and outwards"
+"From the wall of the city and outwards" - Num 35:4
 ---
 וּמַדֹּתֶם
 +
 And ye shall measure
 ---
-Numbers 35:5 (LHB): פְּאַת־קֵדְמָה
+פְּאַת־קֵדְמָה
 +
-The eastern side / edge
----
-ἀμπελών, -ῶνος, ὁ
-+
-a vineyard (Greek)
+"the eastern side / edge" - Num 35:5
 ---
 מִנַּחֲלַת אֲחֻזָּתָם
 +
@@ -74,104 +89,128 @@ a vineyard (Greek)
 ---
 וְאִם מִשְּׂדֵה אֲחֻזָּתוֹ יַקְדִּישׁ אִישׁ לַיהוָה
 +
-"and if a man dedicates to Y some fields from his inheritance"
+"and if a man dedicates to YHWH some fields from his possession"
 ---
 עָרִים לָשָׁבֶת
 +
-Cities for dwelling
+cities for dwelling
+---
+הִקְרָה / הפ׳ קרה
++
+to cause (the right thing, a good fortune) to occur
 ---
 וְהִקְרִיתֶם לָכֶם עָרִים
-הִקְרָה
 +
-BDB: ye shall SELECT cities as suitable.
-(cause cities to occur rightly for yourselves, i.e.)
-
- Gen 27:20 כִּי הִקְרָה יְהוָה אֱלֹהֶיךָ לְפָנָֽי
-cause (the right thing, good fortune) to occur
-
-1 Samuel 6:9 (LHB): מִקְרֶה הוּא הָיָה לָנוּ׃
-1 Samuel 6:9 (LEB): it was by chance that this happened to us
+"ye shall select cities as suitable" BDB
+cause cities to occur rightly for yourselves
 ---
-מַכֵּה־נֶ֖פֶשׁ בִּשְׁגָגָֽה, שָׁגַג
+מִקְרֶה הוּא הָיָה לָנוּ׃
 +
-go astray, commit sin or error (|| שׁגה, שׁוג)
-
+"it was by chance that this happened to us" - 1 Sam 6:9, LEB
+---
+כִּי הִקְרָה יְהוָה אֱלֹהֶיךָ לְפָנָֽי
++
+"For YHWH your God has caused [this good fortune / this catch] to occur before me" - Gen 27:20 (Jacob to Isaac)
+---
+שָׁגַג
+|| שׁגה, שׁוג
++
+to go astray, to commit sin, error
+---
 שִׁגְגָתָם
++
+"their mistake / error"
+---
+מַכֵּה־נֶ֖פֶשׁ בִּשְׁגָגָֽה
++
+who strikes a person (soul) errantly / in error/ accidentally
 ---
 וְהָיוּ לָכֶם הֶעָרִים לְמִקְלָט מִגֹּאֵל
 +
-Numbers 35:12 (LEB): The cities will be to you a refuge from a redeemer
+"and the cities will be to ye as a refuge / asylum from a redeemer (avenger)" - Num 35:12, LEB
 ---
-Hiphil pass. (Hophal) imperf 3ms קום מות
-+
 יוקם / יוּמַת
++
+"it/he shall be arisen", "it/he shall be killed"
+* hiphil pass (hophal) imperf 3ms: קום ,מות
 ---
-יָמִית / יְמִיתֶנּוּ 
+יָמִית / יְמִיתֶנּוּ
++
+"he shall put to death," "he shall put him to death"
+---
 גֹּאֵל הַדָּם הוּא יָמִית אֶת־הָרֹצֵ֑חַ בְּפִגְעֹו‬־בֹו הוּא יְמִיתֶֽנּוּ׃
 +
-He shall put to death / he shall put him to death
-
-The avenger﻿ of blood himself must kill the murderer; when he meets him, he must kill him. Num 35:19 (NET2)
+"The avenger﻿ of blood must himself kill the murderer; when he encounters him, he must kill him." - Num 35:19
 ---
-לַהֲדֹף / יֶהְדָּפֶנּוּ 
- 
+לַהֲדֹף , יֶהְדָּפֶנּוּ
++
+"driving out / pushing", "he shall push him"
+---
 לַהֲדֹף אֶת־כָּל־אֹיְבֶיךָ מִפָּנֶיךָ
-
++
+"by driving out all of your enemies before you" - Deut 6:19, LHB
+---
 וְאִם־בְּשִׂנְאָה יֶהְדָּפֶנּוּ
 +
-By driving out all of your enemies before you | Deut 6:19 (LHB)
-
-If he shoves him in hatred, or he throws something at him with intention, and he dies | Num 35:20 (LEB)
+"but if he pushed him in hatred..."
+---
+בִּצְדִיָּה
++
+by lying in wait (adv.). In hunting
+---
+וְאַתָּה צֹדֶה אֶת־נַפְשִׁי לְקַחְתָּהּ
++
+"but you are hunting down my life to take it" - 1Sam 24:11 LEB (David to Saul)
 ---
 צֹדֶה
- בִּצְדִיָּה
-
-אוֹ־הִשְׁלִיךְ עָלָיו בִּצְדִיָּה
-
- וְאַתָּה צֹדֶה אֶת־נַפְשִׁי לְקַחְתָּהּ
 +
-BDB: lying-in-wait, with malicious intent
-Adv: By lying in wait
-
-but you are hunting down my life to take it | 1Sam 24:11 (LEB)
-
-If he shoves him in hatred, or he throws something at him with intention, and he dies | Num 35:20 (LEB)
+lying-in-wait, with malicious intent (BDB)
 ---
-בְּלֹא־אֵיבָה / בְּלֹא צְדִיָּֽה
+אוֹ־הִשְׁלִיךְ עָלָיו בִּצְדִיָּה
 +
-Without enmity / without ill intent
+"...or if (he) throws something at him with intention, and he dies" - Num 35:20, LEB
+---
+בְּלֹא־אֵיבָה
++
+"without enmity"
+---
+בְּלֹא צְדִיָּֽה
++
+"without ill intent"
 ---
 וַיַּפֵּל
 +
-Hiph wawc נפל
+Hiph imperf wawcons 3ms: נפל
 ---
-וְהֵשִׁיבוּ/ ויָשַׁב 
-
+וְהֵשִׁיבוּ / ויָשַׁב
++
+"and they shall cause (x) to return" / "and he shall dwell"
+---
 וְהֵשִׁיבוּ אֹתוֹ הָעֵדָה אֶל־עִיר מִקְלָטוֹ אֲשֶׁר־נָס שָׁמָּה וְיָשַׁב בָּהּ
 +
-They shall return him / and he shall dwell
+"and the community shall cause him to return to his city of asylum, which he had fled to, and he shall dwell in it"
 ---
 לָשׁוּב לָשֶׁבֶת בָּאָרֶץ
 +
 To return to dwell in the land
 ---
-וְלֹא־תַחֲנִיפוּ
-
-וְלֹא־תַחֲנִיפוּ אֶת־הָאָ֗רֶץ 
-
+חנף
++
+"always distorts given orders of existence. This ontological dimension of the straight, healthy, and true that perversion implies lends it the heavy weight of the basic distortion of the world order" - TLOT
+---
+וְלֹא־תַחֲנִיפוּ אֶת־הָאָ֗רֶץ
++
+"and ye shall not defile / pollute the land"
+---
+וְהָאָ֥רֶץ חָנְפָ֖ה תַּ֣חַת יֹשְׁבֶ֑יהָ כִּֽי־עָבְר֤וּ תוֹרֹת֙ חָ֣לְפוּ חֹ֔ק הֵפֵ֖רוּ בְּרִ֥ית עוֹלָֽם׃
++
+"The earth is defiled by its inhabitants, for they have violated [passed over] laws, disregarded [swept over / by] the regulation, and broken the permanent treaty." - Isaiah 24:5, NET
+---
 כִּ֣י הַדָּ֔ם ה֥וּא יַחֲנִ֖יף אֶת־הָאָ֑רֶץ
 +
-Ye shall not defile / pollute the land
-
-For the blood(shed) polluted the land
----
-חנף
-
-Isaiah 24:5 (LHB): וְהָאָ֥רֶץ חָנְפָ֖ה תַּ֣חַת יֹשְׁבֶ֑יהָ כִּֽי־עָבְר֤וּ תוֹרֹת֙ חָ֣לְפוּ חֹ֔ק הֵפֵ֖רוּ בְּרִ֥ית עוֹלָֽם׃
-+
-always distorts given orders of existence. This ontological dimension of the straight, healthy, and true that perversion implies lends it the heavy weight of the basic distortion of the world order | TLOT
+"for the blood(shed), it pollutes / defiles the land"
 ---
 כִּ֚י אֲנִ֣י יְהוָ֔ה שֹׁכֵ֕ן בְּת֖וֹךְ בְּנֵ֥י יִשְׂרָאֵֽל
 +
-For I am YHWH, who dwells in the midst of the children of Israel
+"for I am YHWH who dwells in the midst of the children of Israel"
 ---

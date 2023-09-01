@@ -5,21 +5,23 @@ tablet
 "a great tablet"
 ---
 חֶ֫רֶט
-וּכְתֹ֤ב עָלָיו֙ בְּחֶ֣רֶט אֱנ֔וֹשׁ
 +
 stylus / engraving tool
-"and write on it with a man's (i.e. an ordinary) stylus 
+---
+וּכְתֹ֤ב עָלָיו֙ בְּחֶ֣רֶט אֱנ֔וֹשׁ
++
+"and write on it with a man's (i.e. an ordinary) stylus"
 = in common characters, intelligible to all
 ---
 וַיִּקַּ֣ח מִיָּדָ֗ם וַיָּ֤צַר אֹתוֹ֙ בַּחֶ֔רֶט
 +
-"And he took it [the gold] from their hand(s) and formed it with an engraving tool" (Ex 32:4)
+"And he took it [the gold] from their hand(s) and formed it with an engraving tool" - Exod 32:4
 ---
 וְאָעִ֣ידָה לִּ֔י
 וְאָעִ֣ידָה לִּ֔י עֵדִ֖ים נֶאֱמָנִ֑ים אֵ֚ת אוּרִיָּ֣ה הַכֹּהֵ֔ן
 +
 "I will summon for myself"
-"Then I will summon as my reliable witnesses Uriah the priest..." (Is. 8:2)
+"Then I will summon as my reliable witnesses Uriah the priest..." - Is 8:2
 ---
 לְאַ֑ט / אַט
 +
@@ -33,15 +35,17 @@ Securely
 ---
 יַ֗עַן כִּ֤י מָאַס֙ הָעָ֣ם הַזֶּ֔ה אֵ֚ת מֵ֣י הַשִּׁלֹ֔חַ הַהֹלְכִ֖ים לְאַ֑ט
 +
-"Because this people has rejected the *gently flowing* waters of Shiloah" (Is. 8:6)
+"Because this people has rejected the *gently flowing* waters of Shiloah" - Is. 8:6
 ---
 דָּבָר לָאַט עִמָּֽךְ׃
 +
-"a word (spoken) gently with thee" (Jb 15:11)
+"a word (spoken) gently with thee" - Job 15:11
 ---
+לְאִטִּ֗י
 יַעֲבָר־נָ֥א אֲדֹנִ֖י לִפְנֵ֣י עַבְדּ֑וֹ וַאֲנִ֞י אֶֽתְנָהֲלָ֣ה לְאִטִּ֗י
 +
-"Please let my lord cross over before his servant, while I lead forth gently" (according to my gentleness) (Ge 33:14)
+"according to my gentleness" / "by my leisure"
+"Please let my lord cross over before his servant, while I lead forth gently" - Gen 33:14
 ---
 אָפִיק
 אֲפִיקֵי מַיִם
@@ -53,7 +57,7 @@ stream-bed, the deepest part of a valley flowing with water
 גַּם־בַּהֲמ֥וֹת שָׂדֶ֖ה תַּעֲר֣וֹג אֵלֶ֑יךָ כִּ֤י יָֽבְשׁוּ֙ אֲפִ֣יקֵי מָ֔יִם
 +
 "The water channels have dried up"
-"Even the wild animals cry out to you; for the river beds have dried up" (Joel 1:20)
+"Even the wild animals cry out to you; for the river beds have dried up" - Joel 1:20
 ---
 וְעָלָה֙ עַל־כָּל־אֲפִיקָ֔יו
 +
@@ -64,6 +68,13 @@ stream-bed, the deepest part of a valley flowing with water
 +
 It's banks
 "And it shall go over all it's banks"
+---
+חלף
+וְחָלַ֤ף
++
+pass on, pass by, pass away, be renewed
+both ‖ עבר -> Either positive or negative, 
+* CaLiPh (successor!)
 ---
 חלף (Williamson)
 +
@@ -76,41 +87,33 @@ ICC Isaiah, Williamson, 2018
 +
 "Like strong winds blowing / passing through the Negev"
 "Here is a message about the Desert by the Sea:
-Like strong winds blowing [ICC: passing through] in the south, one invades [comes] from the wilderness,
-from an awesome land." Isaiah 21:1 (NET2)
+Like strong winds blowing [ICC: passing through] in the south, one invades [comes] from the wilderness, from an awesome land." - Isaiah 21:1 (NET)
 ---
 אָ֣ז חָלַ֥ף ר֛וּחַ וַֽיַּעֲבֹ֖ר וְאָשֵׁ֑ם ז֥וּ כֹח֖וֹ לֵאלֹהֽוֹ
 +
-"Then the wind sweeps by and passes on" Hab 1:11 (non-contextual possible reading)
----
-חלף
-וְחָלַ֤ף
-+
-pass on, pass by, pass away, be renewed
-both ‖ עבר -> Either positive or negative, 
-* CaLiPh (successor!)
+"Then the wind sweeps by and passes on" - Hab 1:11 (non-contextual possible reading)
 ---
 הֵ֤ן יַעֲבֹ֣ר עָ֭לַי וְלֹ֣א אֶרְאֶ֑ה וְ֝יַחֲלֹ֗ף וְֽלֹא־אָבִ֥ין לֽוֹ׃
 +
-"Behold, he passes by me, and I see him not; he moves on, but I do not perceive him" (Job 9:11)
+"Behold, he passes by me, and I see him not; he moves on, but I do not perceive him" - Job 9:11
 ---
 כַּלְּב֖וּשׁ תַּחֲלִיפֵ֣ם וְֽיַחֲלֹֽפוּ
 הֵ֤מָּה׀ יֹאבֵדוּ֮ וְאַתָּ֪ה תַ֫עֲמֹ֥ד וְ֭כֻלָּם כַּבֶּ֣גֶד יִבְל֑וּ כַּלְּב֖וּשׁ תַּחֲלִיפֵ֣ם וְֽיַחֲלֹֽפוּ
 +
 "Like a garment you (ex)change them and they are changed (expire)"
-"They will perish, but you will endure. They will wear out like a garment; like clothes you will change / remove them (cause them to pass on) and they will be changed" (Ps 102:26)
+"They will perish, but you will endure. They will wear out like a garment; like clothes you will change / remove them (cause them to pass on) and they will be changed" - Ps 102:26
 ---
 וְחָלַ֤ף בִּֽיהוּדָה֙ שָׁטַ֣ף וְעָבַ֔ר עַד־צַוָּ֖אר יַגִּ֑יעַ
 +
-"And it will pass by Judah, flood and pass over, reaching even to the neck" (Is. 8:8)
+"And it will pass by Judah, flood and pass over, reaching even to the neck" - Is 8:8
 ---
 מֻטָּה
 מֻטּ֣וֹת כְּנָפָ֔יו
 +
 spreading, outspreading
-"the outspreading of his wings" (Is 8:8)
+"the outspreading of his wings" - Is 8:8
 ---
 וְהָיָה֙ מֻטּ֣וֹת כְּנָפָ֔יו מְלֹ֥א רֹֽחַב־אַרְצְךָ֖ עִמָּ֥נוּ אֵֽל
 +
-"And the outspreading of his wings shall fill the breadth of your land, O Immanuel" (Is. 8:8)
+"And the outspreading of his wings shall fill the breadth of your land, O Immanuel" - Is 8:8
 ---
