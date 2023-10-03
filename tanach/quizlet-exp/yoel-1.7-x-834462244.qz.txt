@@ -1,0 +1,52 @@
+וְלֹ֥א יְעַבְּט֖וּן אֹרְחֹותָֽם
+Prop: יְעָבְּתוּן
++
+"they do not alter﻿ their path" - Joel 2:7 NET
+
+NET Note: "The translation reads יְעַבְּתוּן (yé'abbétun) for MT יְעַבְּטוּן (yé'abbétun). The verb found in MT (עָבַט, 'avat) means "take or give a pledge" (cf. Deut 15:6, 8; 24:10) and does not fit the context. Some scholars have proposed various emendations: (1) יְעָוְּתוּן (yé'avvétun, "they make crooked"); (2) יָטּוּן (yattun, "they turn aside"); (3) יָעַוּוּן (ya'avvun, "they err"); and (4) יְעָבְּתוּן (adopted in the present translation) from the root I עָבַת ('avat, "to twist, pervert")...
+---
+עָבַט
++
+"to take or give a pledge"
+---
+עָבַת א׳
++
+to twist, pervert
+To wind, weave
+---
+עֲבֹת
++
+ropes, twisted cord
+---
+וְאִ֤ישׁ אָחִיו֙ לֹ֣א יִדְחָק֔וּן
++
+"Each one doesn't press / push against his fellow
+---
+דָּחַק
++
+thrust, crowd, oppress (BDB)
+---
+גֶּ֥בֶר בִּמְסִלָּת֖וֹ יֵֽלֵכ֑וּן
++
+"Every warrior of them marches in his path" - Joel 2:8, NAS
+---
+וּבְעַ֥ד הַשֶּׁ֛לַח יִפֹּ֖לוּ ‬לֹ֥א יִבְצָֽעוּ
++
+"Beyond the spear they fall / crash, they do not take booty (or: do not cut through)"
+
+"They burst through﻿ the city defenses﻿ 
+and do not break ranks" NET
+---
+יִבְצָֽעוּ
++
+BHS: "crrp? prp יִבְקְעוּ e"
+NP: but what's wrong with not taking spoils? seems fitting
+---
+בֹּצֵעַ בָּצַע
++
+To cut off; the pursuit of gain through greed (cf. the cognate acc. בֹּצֵעַ בָּצַע; Prov 1:19
+---
+כֵּ֗ן אָ֭רְחוֹת כָּל־בֹּ֣צֵֽעַ בָּ֑צַע אֶת־נֶ֖פֶשׁ בְּעָלָ֣יו יִקָּֽח
++
+"Such are the ways of everyone who makes unjust gain; It takes away the life of its possessors." - Prov 1:19 NAS
+---
