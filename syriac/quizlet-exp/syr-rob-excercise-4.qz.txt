@@ -3,30 +3,53 @@
 https://quizlet.com/860581274
 
 #1 ܫܠܻܝܚܳܐ ܡܗܰܠܶܟ̣ ܗ̱ܘܳܐ ܒ̣ܗܰܝܟ̇ܠܴܐ ܕ̣ܕ̣ܰܗܒ̣ܳܐ܀
+השָליח היה מהלך
 +
 The apostle *was walking* in the temple of gold.
++ Heb: the apostle was walking...
 
 a compound verb: PA + verb to be -> creates a new verb
 ---
 #2 ܡܰܠ̈ܟܷ̇ܐ ܕ̣ܰܐܪܥܳܐ ܐܳܡܪܺܝܢ ܕ̇ܰܰܟ̣ܬ̣ܺܝܒ̣ ܢܳܡܽܘܣܳܐ ܒ̣ܱܟ̣̈ܬ̣ܳܒ̣ܶܐ ܕ̣ܡܽܘܫܶܐ܀
 +
-b
+The kings of the land say: "The Law is written in the books of Moses"
+---
+#2 מַלכי הארץ אומרים שהתורה כתובה בסִשפרֵי משה
++
+#2 in Heb: The kings of the land say: "The Law is written in the books of Moses"
 ---
 #3 ܪ̈ܶܓ̣ܠܰܝ ܡܰܠܟ̇ܳܐ ܒ̣ܗܰܝܟ̇ܠܳܐ ܐܶܢܶܝܢ܀
 +
-c
+The feet of the king are in the temple.
+construct 1
 ---
 #4 ܣܳܡ ܡܰܠܟ̇ܳܐ ܒ̣ܺܝܫܳܐ ܓ̣ܫܽܘܡ ܓ̇ܰܒ̣ܪܳܐ ܥܰܠ ܩܰܪ̈ܢܶܐ ܕܬ̣ܰܘܪܳܐ܀
 +
-
+The evil king placed (perf) the body of the man on the horns of the bull
+* 2 #1 constructs
+---
+ܓ̣ܽܫܡܳܐ
++
+determined of: ܓ̣ܫܽܘܡ 
+-> IJ: "you can see how the uu vowel fluctuates between R2 and R3, and R1 to R2" (!!)
 ---
 #5 ܒ̇ܙܰܒ̣̈ܢܶܐ ܗܳܠܶܝܢ ܐܶܟ̣ܰܠ ܢܒ̣ܺܝܳܐ ܕ̣ܡܱܠܟ̇ܳܐ ܠܒ̣ܶܣܪܳܐ ܘܶܐܫܬܻ̇ܝ ܠܚܰܡܪܳܐ܀
 +
-
+In these times the prophet of the king ate the meat *and he drank* the wine.
+---
+ܐܶܟ̣ܰܠ
++
+he ate
+---
+ܘܶܐܫܬܻ̇ܝ
++
+he drank
+and he drank
 ---
 #6 ܝܰܠ̈ܕ̇ܰܝ ܓ̇ܰܒ̣ܪ̈ܶܐ ܣܳܒ̣ܷ̈ܐ ܣܳܡܘ ܪ̈ܶܓ̣ܠܶܐ ܒ̣ܗܰܝܟ̇ܠܳܐ܀
 +
-
+The children of the old men set (their) feet in the temple.
+(another #1 construct, also could be 1cs pron)
 ---
 #7 ܐܶܟ̣ܰܠ ܕ̇ܺܐܒ̣ܳܐ ܒ̣ܺܝܫܳܐ ܠܥܳܢܴ̈ܐ ܕ̣ܡܱܠܟ̇ܳܐ܀
 +
