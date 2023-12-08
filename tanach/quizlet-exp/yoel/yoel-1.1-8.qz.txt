@@ -1,0 +1,120 @@
+# Yoel 1:1-8
+
+https://quizlet.com/830909784
+
+דְּבַר־יְהוָה֙ אֲשֶׁ֣ר הָיָ֔ה אֶל־יוֹאֵ֖ל בֶּן־פְּתוּאֵֽל
++
+"The word of Yahweh that was [communicated] to Joel, the son of Pethuel." - Joel 1:1
+---
+יֶ֤תֶר הַגָּזָם֙ אָכַ֣ל הָֽאַרְבֶּ֔ה
++
+"What the gazam-locust left the 'arbeh-locust consumed" - 1:4, NET
+"What the gnawing locust has left, the swarming locust has consumed" - LSB
+---
+גָּזָם
++
+gazam-locust
+"locust swarm" - NID, NIV
+(always as devouring, devastating)
+---
+יֶ֤תֶר הַגָּזָם֙ אָכַ֣ל הָֽאַרְבֶּ֔ה וְיֶ֥תֶר הָאַרְבֶּ֖ה אָכַ֣ל הַיָּ֑לֶק וְיֶ֣תֶר הַיֶּ֔לֶק אָכַ֖ל הֶחָסִֽיל
++
+"What the gazam (-locust) left the 'arbeh consumed, what the 'arbeh left the yeleq consumed, and what the yeleq left the hasil-locust consumed!" - 1:4, NET (w/removed '-locust' from all but the first)
+---
+Locusts NET note
++
+The four Hebrew terms used in this verse are of uncertain meaning. English translations show a great deal of variation in dealing with these... Whether these [four] words represent different life-stages of the locusts, or whether virtual synonyms are being used to underscore the severity of damage caused by the relentless waves of locust invasion, is not entirely certain. The latter seems more likely. Many interpreters have understood the locust plagues described here to be symbolic of invading armies that will devastate the land, but the symbolism could also work the other way, with real plagues of locusts described in the following verses as an invading army.
+---
+הָקִ֤יצוּ שִׁכּוֹרִים֙ וּבְכ֔וּ
++
+"Wake up, you drunkards, and weep!"
+---
+וְהֵילִ֖לוּ כָּל־שֹׁ֣תֵי יָ֑יִן
++
+"And wail, all you wine drinkers" - LSB
+---
+עַל־עָסִ֕יס כִּ֥י נִכְרַ֖ת מִפִּיכֶֽם
++
+"over the sweet wine, for it is cut off from your mouth."
+---
+עָסִיס
++
+sweet wine (proposes pressed out juice);
+---
+וְנִגַּ֤שׁ חוֹרֵשׁ֙ בַּקֹּצֵ֔ר וְדֹרֵ֥ךְ עֲנָבִ֖ים בְּמֹשֵׁ֣ךְ הַזָּ֑רַע וְהִטִּ֤יפוּ הֶֽהָרִים֙ עָסִ֔יס
++
+"And the plowman shall overtake [lit: approach] the reaper, and the treader of grapes the one who sows the seed; the mountains shall drip sweet wine" - Amos 9:13, NRS
+---
+Niphal נָגַשׁ - NIDDOTE note
++
+2. Instead of having a pass. ni., נָגַשׁ is a mixed root that uses a q. impf. but a ni. pf. (GKC 220; Waltke-O'Connor, IBHS 392-93). The seventeen occurrences of the ni. have the same basic meanings as the q. The hi. is used much like those of בּוֹא and קָרַב. As a "two-place Hiphil," it is used when one brings an offering to God (Lev 2:8 contains the hi. of all three roots).
+See Coming, approaching, entering
+NIDDOTE
+---
+וַתִּגַּ֧שְׁןָ הַשְּׁפָח֛וֹת
+וַתִּגַּ֧שׁ גַּם־לֵאָ֛ה
+וְאַחַ֗ר נִגַּ֥שׁ יוֹסֵ֛ף
++
+"Then the slave women came forward
+"And Leah likewise came forward
+"and afterward Joseph came forward
+- Gen 33:6-7, NAS (qal imperfx2, + niph perf all with same meaning!)
+---
+כִּֽי־גוֹי֙ עָלָ֣ה עַל־אַרְצִ֔י עָצ֖וּם וְאֵ֣ין מִסְפָּ֑ר
++
+"For a nation has invaded my land, Mighty and without number" - 1:6, NAS
+---
+שִׁנָּיו֙ שִׁנֵּ֣י אַרְיֵ֔ה וּֽמְתַלְּע֥וֹת לָבִ֖יא לֽוֹ
++
+its teeth are lions' teeth, and it has the fangs of a lioness.
+---
+מְתַלְּעוֹת
++
+Fangs, incisors
+"teeth, incisors, late (always || שִׁנַּיִם)" - BDB
+"It refers to the jawbone as the place where the teeth are set. In two cases it refers to the jawbones of a lion" - NID
+---
+מְתַלְּע֥וֹת לָבִ֖יא
++
+lioness' fangs
+---
+שָׂ֤ם גַּפְנִי֙ לְשַׁמָּ֔ה
++
+"It has made my vine a desolation" - 1:7, LSB
+---
+וּתְאֵנָתִ֖י לִקְצָפָ֑ה
++
+"And my fig tree splinters" - LSB
+---
+חָשֹׂ֤ף חֲשָׂפָהּ֙ וְהִשְׁלִ֔יךְ
++
+"It has stripped them bare and cast them away" - LSB
+---
+הִלְבִּ֖ינוּ שָׂרִיגֶֽיהָ
++
+"they have whitened her tendrils" ('branches')
+---
+שָׂרִיג, סְרִיגָא
++
+tendrils of the grapevine (BDB), 'branches'
+---
+ܣܪܺܝܓܬܳܐ
++
+network, lattice (Syr)
+---
+אֱלִ֕י, אָלָה ג׳
++
+wail! (hapax, but see next)
+---
+אַלְלַי
++
+alas! woe!
+---
+אַ֣לְלַי לִ֗י כִּ֤י הָיִ֙יתִי֙ כְּאָסְפֵּי־קַ֔יִץ
++
+"Woe is me! For I am like those who gather summer fruits..." - Mic 7:1, NKJ
+---
+אֱלִ֕י כִּבְתוּלָ֥ה חֲגֻֽרַת־שַׂ֖ק עַל־בַּ֥עַל נְעוּרֶֽיהָ
++
+"Wail like a virgin clothed with sackcloth For the husband of her youth." - Joel 1:8, NAS
+---

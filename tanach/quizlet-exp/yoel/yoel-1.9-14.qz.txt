@@ -1,0 +1,145 @@
+# Yoel 1:9-14
+
+https://quizlet.com/830897973
+
+הָכְרַת מִנְחָ֛ה וָנֶ֖סֶךְ מִבֵּ֣ית יְהוָ֑ה
++
+"The grain offering and the drink offering are cut off from the house of Yahweh." - Joel 1:9, LSB
+---
+שֻׁדַּ֣ד שָׂדֶ֔ה אָבְלָ֖ה אֲדָמָ֑ה כִּ֚י שֻׁדַּ֣ד דָּגָ֔ן הֹובִ֥ישׁ תִּירֹ֖ושׁ אֻמְלַ֥ל יִצְהָֽר
++
+"The field is destroyed, the land mourns, for the grain is destroyed, the new wine has dried up, fresh oil fails."
+---
+הֹובִ֥ישׁ תִּירֹ֖ושׁ
++
+"the wine [has] dried up"
+"(Hiphil internal transitive of ybš)" - Anchor, Crenshaw
+---
+אָמַל
+אֻמְלַ֥ל
++
+be weak, languish
+pulal perf 3ms
+---
+יִצְהָֽר
++
+oil
+---
+הֹבִ֣ישׁוּ אִכָּרִ֗ים
++
+"Be ashamed, you farmers" (imv.)
+"Be ashamed. The third strophe of the call to lamentation begins by playing on the ambiguity of hôbîš in 1:10b, but the application to peasant farmers is restricted to its sense of shame."
+---
+הוֹבִישׁ
++
+"he put to shame" - Hiphil בוש form 2
+---
+הֹבַ֨שְׁתָּ - הֹבַ֨שְׁתָּ הַיּ֜וֹם אֶת־פְּנֵ֣י כָל־עֲבָדֶ֗יךָ
++
+"you have shamed the faces today of all your servants" - 2Sam 19:6, Hiphil בוש form 2
+---
+הֵקִים
+הֲקִמֹ֔תִי
+זֹ֤את אֽוֹת־הַבְּרִית֙ אֲשֶׁ֣ר הֲקִמֹ֔תִי בֵּינִ֕י וּבֵ֥ין כָּל־בָּשָׂ֖ר
++
+"He established
+"I have established (caused to arise)
+"This is the sign of the covenant which I have established between Me and all flesh" - Gen 9:17 NAS
+---
+הֹבַ֨שְׁתָּ
+הֲקִמֹת
+וַהֲקֵמֹתָ֖ אֶת־הַמִּשְׁכָּ֑ן
++
+"You put to shame" (Hiph perf 2ms)
+"You erected" (Hiph perf 2ms)
+"Then you shall erect the tabernacle" - Exod 26:30
+---
+הוּקַם
+הוּקַ֖ם הַמִּשְׁכָּֽן׃
++
+It was raised (Hoph. Pf. 3 ms קום )
+"The tabernacle was erected" - Exod 40:17
+---
+הֹבִ֣ישׁוּ חֲכָמִ֔ים חַ֖תּוּ וַיִּלָּכֵ֑דוּ
++
+"the wise men are put to shame, they are shattered and are captured" - Jer 8:9 - Hiphil בוש form 2
+---
+יְ֝הוָ֗ה אַל־תְּבִישֵֽׁנִי
++
+"YHWH put me not to shame" - Ps 119:31
+---
+נִרְדָּ֥ם בַּ֝קָּצִ֗יר בֵּ֣ן מֵבִֽישׁ
++
+"he who sleeps during summer is a son who brings shame." - Prov 10:5
+---
+אִכָּר, אִכָּרִ֗ים
++
+peasant farmer, HAL: "agricultural worker in servitude without land"
+---
+ikkaru
++
+farmer (Akk.)
+---
+הֵילִ֙ילוּ֙ כֹּֽרְמִ֔ים
++
+Wail, O vinedressers
+---
+שְׂעֹרָ֑ה
++
+barley
+---
+כִּ֥י אָבַ֖ד קְצִ֥יר שָׂדֶֽה
++
+for the harvest of the field has perished
+---
+כִּֽי־הֹבִ֥ישׁ שָׂשׂ֖וֹן מִן־בְּנֵ֥י אָדָֽם
++
+Indeed, the joy of the people has dried up
+---
+חִגְר֨וּ וְסִפְד֜וּ הַכֹּהֲנִ֗ים
++
+"Gird yourselves and lament, you priests" - Joel 1:13
+
+NET: There is no object present in the Hebrew, many translations assume "sackcloth" as the object of the verb "put on." Its absence ... is probably due to metrical considerations... the meter here is 3 + 3
+---
+לִ֣ינוּ בַשַּׂקִּ֔ים מְשָׁרְתֵ֖י אֱלֹהָ֑י
++
+"spend the night in sackcloth, You ministers of my God" - NAS
+---
+כִּ֥י נִמְנַ֛ע מִבֵּ֥ית אֱלֹהֵיכֶ֖ם מִנְחָ֥ה וָנָֽסֶךְ
++
+"For the grain offering and the drink offering Have been withheld from the house of your God." - NAS
+---
+מָנַע
++
+to withhold, hold back, retain
+---
+הֲתַ֤חַת אֱלֹהִים֙ אָנֹ֔כִי אֲשֶׁר־מָנַ֥ע מִמֵּ֖ךְ פְּרִי־בָֽטֶן
++
+"Am I in the place of God, who has withheld from you the fruit of the womb?" - Gen 30:2, NAS
+---
+קַדְּשׁוּ־צוֹם֙
++
+"Consecrate a fast" - NAS; "Declare a holy fast" - NIV
+---
+עֲצָרָה
+עֲצֶ֫רֶת
++
+sacred assembly
+---
+שָׂנֵ֥אתִי מָאַ֖סְתִּי חַגֵּיכֶ֑ם וְלֹ֥א אָרִ֖יחַ בְּעַצְּרֹֽתֵיכֶֽם
++
+"I hate, I despise (/reject) your festivals, and I take no delight in (I will not smell) your solemn assemblies" - Amos 5:21
+---
+כִּֽי־אַתָּ֞ה הַדַּ֣עַת מָאַ֗סְתָּ וְאֶמְאָֽסְאךָ֙ מִכַּהֵ֣ן לִ֔י וַתִּשְׁכַּח֙ תּוֹרַ֣ת אֱלֹהֶ֔יךָ אֶשְׁכַּ֥ח בָּנֶ֖יךָ גַּם־אָֽנִי
++
+"Since you have rejected knowledge, I also will reject you from being My priest. Since you have forgotten the Law of your God, I also will forget your children." - Hos 4:6 NAS
+---
+אִסְפ֣וּ
++
+"gather!" (pl)
+---
+קַדְּשׁוּ־צוֹם֙ קִרְא֣וּ עֲצָרָ֔ה אִסְפ֣וּ זְקֵנִ֗ים כֹּ֚ל יֹשְׁבֵ֣י הָאָ֔רֶץ בֵּ֖ית יְהוָ֣ה אֱלֹהֵיכֶ֑ם וְזַעֲק֖וּ אֶל־יְהוָֽה
++
+"Consecrate a fast, proclaim a solemn assembly, gather the elders and all the inhabitants of the land to the house of the YHWH your God, and cry out to YHWH." - Joel 1:14
+---
