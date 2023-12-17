@@ -1,6 +1,6 @@
 # Robinson's Syriac Excercise #5
 
-https://quizlet.com/
+https://quizlet.com/862908591
 
 #1 ܣܳܡܘ ܡܰܠ̈ܟ̇ܶܐ ܪ̈ܶܓ̣ܠܰܝܗܽܘܢ ܒܱ̇ܡܕ̣ܺܝ̈ܢܳܬ̣ܳܐ ܕ̣ܺܝܠܗܽܘܢ܀
 +
@@ -80,8 +80,6 @@ Oh queens*: Your lady companions are cute (/beautiful).
 #10 ܐܶܡܰܪ ܫܠܺܝܚܳܐ ܠܡܰܠܟ̇ܳܐ ܕ̣ܠܳܐ ܩܛܺܝܠ ܐ̱ܢܳܐ ܡܶܢ ܚܶܢ̈ܓ̣ܳܬ̣ܳܟ܀
 +
 The apostle said to the king:* 'I am not killed by your torments.'
-
-In Heb: "The apostle said to the king"
 * "The dalet introduces the direct speech, not to be translated"
 ---
 ܚܶܢ̈ܓ̣ܳܬ̣ܳܟ
@@ -98,19 +96,21 @@ your torments
 I am not killed
 ---
 #11 ܡܗܰܠܶܟ̣ ܐ̱ܢܳܐ ܒ̣ܒ̣ܰܝܬ̇ܝ ܘܫܳܬ̣ܶܐ ܐ̱ܢܳܐ ܚܰܡܪܝ܀
-אני מהַלֵך בבֵיתי ואני שתה יֵינִי / חַמרי
 +
-I am walking in my house, and am drinking my wine. 
-+ Heb
+I am walking in my house, and am drinking my wine.
+---
+#11 Heb: אני מהַלֵך בבֵיתי ואני שתה יֵינִי / חַמרי
++
+I am walking in my house, and am drinking my wine.
+---
+#12 ܟ̇ܽܠ ܡܰܢ ܕ̇ܰܒ̣ܒ̣ܰܝܬܷ̇ܗ ܕ̇ܡܰܠܟ̇ܳܐ ܐܳܟ̣ܶܠ ܒܷ̇ܣܪܳܐ ܘܫܳܬ̣ܶܐ ܚܰܡܪܳܐ܀
++
+Anyone who is (/all those who are) in the house of the king, eats flesh and drinks wine.
 ---
 #13 ܛܳܒ̣ ܗ̱ܘ ܕ̣ܢܳܛܰܪ ܡܶܢ ܒܻ̇ܝܫܳܐ ܠܢܰܦ̣ܫܶܗ܀
 +
 Good is the person who keeps* his soul (/himself) from evil.
 * (The person who keeps...)
----
-#12 ܟ̇ܽܠ ܡܰܢ ܕ̇ܰܒ̣ܒ̣ܰܝܬܷ̇ܗ ܕ̇ܡܰܠܟ̇ܳܐ ܐܳܟ̣ܶܠ ܒܷ̇ܣܪܳܐ ܘܫܳܬ̣ܶܐ ܚܰܡܪܳܐ܀
-+
-Anyone who is (/all those who are) in the house of the king, eats flesh and drinks wine.
 ---
 #14 ܛܳܒ̣̈ܳܢ ܢܶܫܰܝ̈ܗܽܘ̇ܢ ܕ̇ܡܰܠ̈ܟܷ̇ܐ ܕ̣ܒ̣ܰܡܕ̣ܺܝ̈ܢܳܬ̣ܳܐ ܕ̣ܓܰܒ̣ܪ̈ܰܝܗܶܝܢ܀
 +
@@ -131,7 +131,7 @@ this (m.s. near dem. pr)
 ---
 ܗܳܢܰܘ
 +
-This [is] he [who...] (m.s.) [far demonstrative)
+This [is] he [who...] (m.s.) [near demonstrative)
 ܗܳܢܳܐ + ܗ̱ܽܘ
 ---
 ܗܰܘ

@@ -1,0 +1,28 @@
+# Syriac Noun State Paradigms
+
+https://quizlet.com/853758483
+
+ܒܺܝܫ
+ܒܺܝܫ
+ܒܺܝܫܳܐ
++
+He is 'wicked' (adj): Abs, Const, Emphatic
+---
+ܒܺܝܫܳܐ
+ܒܺܝܫܱܬܼ
+ܒܺܝܫܬܴܿܐ
++
+She is 'wicked' (adj): Abs, Const, Emphatic
+---
+ܒܺܝܫܺܝܢ
+ܒܺܝ̈ܫܱܝ
+ܒܺܝ̈ܫܷܐ
++
+They are 'wicked' (adj): Abs, Const, Emphatic
+---
+ܒܺܝ̈ܫܳܢ
+ܒܺܝ̈ܫܳܬܼ
+ܒܺܝ̈ܫܳܬܼܳܐ
++
+They (f.) are 'wicked' (adj): Abs, Const, Emphatic
+---
