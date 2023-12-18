@@ -1,8 +1,8 @@
 # Quizlet export instructions
 
 TLDR:
- * rows: `\n---\n`
  * term/def: `\n+\n`
+ * rows: `\n---\n`
 
 ## Suggested export plain text separators
 
