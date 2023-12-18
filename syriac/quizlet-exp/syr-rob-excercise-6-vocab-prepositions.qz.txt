@@ -16,7 +16,7 @@ by the side of, = except
 above
 + JA variants
 ---
-ܓ̣ܰܘ
+ܓ݂ܰܘ
 גוֹ, בגוֹ
 בגוֹ נורא יַקִדתָא
 +
@@ -24,20 +24,20 @@ inside
 JA
 in the midst of the burning furnace
 ---
-ܠܓ̣ܰܘ ܡܶܢ
+ܠܓ݂ܰܘ ܡܶܢ
 +
 within
 ---
-ܒ̣ܰܪ
+ܒ݂ܰܪ
 +
 outside
 ---
-ܠܒ̣ܰܪ ܡܶܢ
+ܠܒ݂ܰܪ ܡܶܢ
 מִלְּבַר
 +
 outside of
 ---
-ܒ̇ܶܝܬ̣ ܠ
+ܒ݁ܶܝܬ݂ ܠ
 (בֵינְת)
 בֵּינוֹתֵינוּ
 +
@@ -45,11 +45,11 @@ between
 fem. formation, *not* from 'house'
 Heb: 'between us'
 ---
-ܥܰܕ̣ܡܳܐ ܕ
+ܥܰܕ݂ܡܳܐ ܕ
 +
 until
 ---
-ܠܬ̣ܰܚܬ̇
+ܠܬ݂ܰܚܬ݁
 +
 below
 ---
@@ -57,7 +57,7 @@ below
 +
 with
 ---
-ܒ̣ܳܬ̣ܰܪ
+ܒ݂ܳܬ݂ܰܪ
 +
 after
 ---

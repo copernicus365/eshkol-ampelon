@@ -9,7 +9,7 @@ foot. hoof, etc
 + JA (NP or BibAr)
 IJ: "the same relationship we had earlier: a Syriac 'eh' - ܪܶ usually corresponds to a Jewish Aramaic 'ee' - רִ". Other example: ܥܶܕܳܢ vs עִידָּן עִדָּן (period, time)
 ---
-ܙܰܒ̣ܢܳܐ
+ܙܰܒ݂ܢܳܐ
 זִמְנָא, זְמַנָּא
 +
 time
@@ -19,11 +19,11 @@ IJ: "here we see the beth corresponding to Heb / JA 'mem', as compared to Syr
 +
 fish
 ---
-ܚܢܰܓ̣ܬ̣ܳܐ
+ܚܢܰܓ݂ܬ݂ܳܐ
 +
 torment (IJ: no JA cognate)
 ---
-ܕ̇ܰܗܒ̣ܳܐ
+ܕ݁ܰܗܒ݂ܳܐ
 דְּהַב!, דַּהֲבָא
 +
 gold
@@ -38,7 +38,7 @@ Huge notes on ܐܶ by IJ: "the *theme vowel*, patach, over the mem. The aleph is
 
 "But basically the aleph is in a sheva position, and the main vowel is the patach over the mem"
 ---
-ܢܦ̣ܰܩܬ̣ܳܐ
+ܢܦ݂ܰܩܬ݂ܳܐ
 +
 cost. (to go out -> outlay, cost, expenditure)
 ---
@@ -62,14 +62,14 @@ IJ: "Exactly as in Hebrew:
 the days
 days (abs)
 ---
-ܝܱܘ̈ܡܳܬ̣ܳܐ
-ܝܱܘ̈ܡܳܬ̣ܳܐ ܡܰܠܟ̇ܳܐ
+ܝܱܘ̈ܡܳܬ݂ܳܐ
+ܝܱܘ̈ܡܳܬ݂ܳܐ ܡܰܠܟ݁ܳܐ
 יְמות המשיח
 +
 days (*fem* pl abs. Is only ever abs pl)
 "(the) days of Messiah" - Syr / Heb
 ---
-ܐܶܫܬܻ̇ܝ
+ܐܶܫܬܻ݁ܝ
 +
 he drank
 
@@ -79,17 +79,17 @@ sibilant: "Of, characterized by, or producing a hissing sound like that of (s) o
 
 our first (basically) qal stativ vocalization, "which we don't have in Hebrew, 3rd weak
 ---
-ܫܳܬ̣ܶܐ
+ܫܳܬ݂ܶܐ
 +
 drinking (PA)
 ---
-ܡܶܐܟ̣ܽܘܠܬܴ̇ܐ
+ܡܶܐܟ݂ܽܘܠܬܴ݁ܐ
  מַאֲכָל
 +
 food
 + JA / Heb
 ---
-ܚܰܕ̣ܬ̣ܳܐ
+ܚܰܕ݂ܬ݂ܳܐ
 +
 "New" adj:
 masc: 
@@ -97,14 +97,14 @@ note on soft tav: "what has happened is the dalet being soft, at times is assimi
 
 fem:
 ---
-ܐܳܬ̣ܳܐ، fem. ܐܳܬ̣ܘܴ̈ܬ̣ܳܐ
+ܐܳܬ݂ܳܐ، fem. ܐܳܬ݂ܘܴ̈ܬ݂ܳܐ
 +
 a sign (fem!)
 signs
 On plural, IJ: "which in the plural gets an *infixed waw*... exactly the same as in JA..."
 ---
 ܥܣܶܩ
-ܥܣܱܩܬ̣ܳܐ
+ܥܣܱܩܬ݂ܳܐ
 +
 heavy (adj)
 * f. sg. emph.

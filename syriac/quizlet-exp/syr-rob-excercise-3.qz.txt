@@ -2,7 +2,7 @@
 
 https://quizlet.com/859551078
 
-#1 ܟ̇ܬ̣ܴܒ̣ܱܢ
+#1 ܟ݁ܬ݂ܴܒ݂ܱܢ
 כְּתָבַנָא
 כְּתָבֵנוּ / סִפְרֵנוּ
 סִפְרֵינוּ
@@ -25,7 +25,7 @@ their heads
 
 IJ: "The patach is on the lamed. The ayin is in the pretonic sheva position, whereas in Hebrew you would have there a big qametz. In Syriac the heh has been blocked, and therefore what you do is you pronounce first an ayin with a sheva, which in Jewish Aramaic would take hataf-patach. The lamed with the patach in combination with the waw gives you a dipthong, and you do your best to accomodate the yod at the end. You realize this is the 'Alohi' form that we have both in biblical Aramaic and in the Targumim, with the "Hawaiian" ending. So "'alohi" becomes "alaw": upon him.
 ---
-ܠܘܳܬ̣ܝ
+ܠܘܳܬ݂ܝ
 +
 towards me
 IJ: this form makes up for the lack of אֵל / towards, in Syriac and Talmudic Aramaic, which acts exactly as 'el' in Biblical Aramaic.
@@ -34,23 +34,23 @@ IJ: this form makes up for the lack of אֵל / towards, in Syriac and Talmudic 
 +
 his peace
 ---
-ܢܺܝܫܟ̣ܘܽܢ
+ܢܺܝܫܟ݂ܘܽܢ
 +
 your (pl) standard
 ---
-ܦ̇ܘܽܡܳܟ̣
+ܦ݁ܘܽܡܳܟ݂
 +
 your mouth
 ---
-ܛܰܝܒ̇ܽܘܬ̣ܶܟܝ
+ܛܰܝܒ݁ܽܘܬ݂ܶܟܝ
 +
 your (fem. sing.) blessing
 ---
-ܬܱ̇ܠܡܺܝܕ̣ܰܝ
+ܬܱ݁ܠܡܺܝܕ݂ܰܝ
 +
 my disciples
 ---
-ܦܴ̇ܪܽܘܩܳܗ̇
+ܦܴ݁ܪܽܘܩܳܗ݁
 +
 her savior
 "the little dot on the heh, for a change, **is the markterm-10 of the feminine" (!!) obviously to differentiate from ܩܶܗ
@@ -59,71 +59,71 @@ her savior
 +
 from them
 ---
-ܦܾ̇ܘܩ̈ܕ̇ܳܢܰܘܗ̱ܝ
+ܦܾ݁ܘܩ̈ܕ݁ܳܢܰܘܗ̱ܝ
 +
 his commandments
 ---
-ܡܶܠܱ̈ܝܟ̇ܝ
+ܡܶܠܱ̈ܝܟ݁ܝ
 +
 your (fem. s) words
 ---
-#2 ܟ̇ܬ̣ܻܝܒ̣ܽ ܗ̱ܘ ܒܰܟ̣̈ܬ̣ܳܒܰܝܗܽܘܢ ܕܰ̇ܫܠܻܝܚܶܐ ܕ̣ܫܱܪܺܝܪܳܐ ܗ̱ܝ ܡܶܠܬ̣ܳܐ ܕ̣ܰܢܒ̣ܺܝܳܐ
+#2 ܟ݁ܬ݂ܻܝܒ݂ܽ ܗ̱ܘ ܒܰܟ݂̈ܬ݂ܳܒܰܝܗܽܘܢ ܕܰ݁ܫܠܻܝܚܶܐ ܕ݂ܫܱܪܺܝܪܳܐ ܗ̱ܝ ܡܶܠܬ݂ܳܐ ܕ݂ܰܢܒ݂ܺܝܳܐ
 +
 it is written in the books of the apostles that the word of the prophet is true
 ---
-#3 ܐܻܝܬ̣ܱܝܗܶܝܢ ܡܷ̈ܠܷܐ ܛܳܒ̣ܴ̈ܬ̣ܳܐ ܒ̣ܦ̣ܽܘܡܶܗ ܕ̇ܬ̣ܰܠܡܺܝܕ̣ܳܐ ܀
+#3 ܐܻܝܬ݂ܱܝܗܶܝܢ ܡܷ̈ܠܷܐ ܛܳܒ݂ܴ̈ܬ݂ܳܐ ܒ݂ܦ݂ܽܘܡܶܗ ܕ݁ܬ݂ܰܠܡܺܝܕ݂ܳܐ ܀
 +
 there are good words in the mouth of the disciple
 ---
-#4 ܐܻܝܬ̣ ܠܰܢ ܫܠܳܡܳܐ. ܟ̇ܬ̣ܺܝܒ̣ܺܝܢ ܚ̱ܢܰܢ ܒܱ̇ܟ̣ܬ̣ܳܒ̣ܳܐ ܕ̣ܛܰܝܒܼ̇ܽܘܬ̣ܳܐ܀
+#4 ܐܻܝܬ݂ ܠܰܢ ܫܠܳܡܳܐ. ܟ݁ܬ݂ܺܝܒ݂ܺܝܢ ܚ̱ܢܰܢ ܒܱ݁ܟ݂ܬ݂ܳܒ݂ܳܐ ܕ݂ܛܰܝܒܼ݁ܽܘܬ݂ܳܐ܀
 +
 We have peace. We are written in the book of blessing.
 ---
-#5 ܢܳܣܶܒ̣ ܫܠܺܝܚܳܐ ܠܥܳܢܳܐ ܡܶܢ ܦܾ̇ܘܡܳܗ̇ ܕ̇ܕ̣ܺܐܒ̣ܬܴ̇ܐ ܀
+#5 ܢܳܣܶܒ݂ ܫܠܺܝܚܳܐ ܠܥܳܢܳܐ ܡܶܢ ܦܾ݁ܘܡܳܗ݁ ܕ݁ܕ݂ܺܐܒ݂ܬܴ݁ܐ ܀
 +
 The apostle is taking the sheep from the mouth of the she-wolf.
 ---
-#6 ܡܰܠܟ̇ܬ̣ܳܐ. ܠܳܐ ܢܳܛܱܪ ܕ̇ܰܝܳܢܳܐ ܗܳܢܳܐ ܦ̣ܽܘܩ̈ܕ̇ܳܢܰܝܟ̇ܝ܀
+#6 ܡܰܠܟ݁ܬ݂ܳܐ. ܠܳܐ ܢܳܛܱܪ ܕ݁ܰܝܳܢܳܐ ܗܳܢܳܐ ܦ݂ܽܘܩ̈ܕ݁ܳܢܰܝܟ݁ܝ܀
 +
 O queen, this judge is not keeping your commandments.
 (The dot after queen means: vocative!)
 ---
-#7 ܡܩܰܒ̇ܠܻܝܢܰܢ ܛܰܝܒ̇ܽܘܬ̣ܳܟ̣ ܥܰܠ ܪ̈ܺܝܫܰܝܢ܀
+#7 ܡܩܰܒ݁ܠܻܝܢܰܢ ܛܰܝܒ݁ܽܘܬ݂ܳܟ݂ ܥܰܠ ܪ̈ܺܝܫܰܝܢ܀
 +
 We receive your blessing upon our heads.
 ---
-#8 ܐܺܝܬ̣ܰܝܗܶܝܢ ܒܱ̇ܩܪ̈ܶܐ ܘܥܳܢܴ̈ܐ ܣܺܝܡܬ̣ܶܗ ܕ̇ܥܰܡܳܐ܀
+#8 ܐܺܝܬ݂ܰܝܗܶܝܢ ܒܱ݁ܩܪ̈ܶܐ ܘܥܳܢܴ̈ܐ ܣܺܝܡܬ݂ܶܗ ܕ݁ܥܰܡܳܐ܀
 +
 Herds and sheep are the treasure of the people. 
 (IJ: "Their stock, in other words")
 ---
-#9 ܢܳܛܰܪ ܡܰܠܟܴ̇ܐ ܛܳܒ̣ܳܐ ܫܠܳܡܳܐ ܕ̣ܥܰܡܳܐ ܕ̣ܺܝܠܶܗ܀
+#9 ܢܳܛܰܪ ܡܰܠܟܴ݁ܐ ܛܳܒ݂ܳܐ ܫܠܳܡܳܐ ܕ݂ܥܰܡܳܐ ܕ݂ܺܝܠܶܗ܀
 +
 The good king guards the peace of his people.
 ---
-#10 ܦ̇ܽܘܩ̈ܕ̇ܳܢܰܝܟ̣ ܒ̇ܦ̣ܽܘܡܝ. ܢܳܛܰܪ ܐ̱ܢܳܐ ܠܗܽܘܢ܀
+#10 ܦ݁ܽܘܩ̈ܕ݁ܳܢܰܝܟ݂ ܒ݁ܦ݂ܽܘܡܝ. ܢܳܛܰܪ ܐ̱ܢܳܐ ܠܗܽܘܢ܀
 +
 Your commandments are in my mouth. I keep them.
 ---
-#11 ܫܰܦܻ̇ܝܪ̈ܳܢ ܒ̇ܬ̣ܽܘ̈ܠܳܬ̣ܳܐ ܕ̣ܰܒ̣ܒ̣ܰܝܬܴ̇ܐ ܕ̇ܡܰܠܟ̇ܬ̣ܳܐ܀
+#11 ܫܰܦܻ݁ܝܪ̈ܳܢ ܒ݁ܬ݂ܽܘ̈ܠܳܬ݂ܳܐ ܕ݂ܰܒ݂ܒ݂ܰܝܬܴ݁ܐ ܕ݁ܡܰܠܟ݁ܬ݂ܳܐ܀
 +
 The virgins are beautiful who are in the queen's house.
 ---
-#12 ܐܰܡܻܝܪܽ ܗ̱ܘ ܡܶܢܟ̣ܽܘ̇ܢ ܕ̇ܺܐܝܬ̣ܰܘܗ̱ܝ ܫܠܳܡܳܐ ܒ̣ܰܟ̣̈ܬ̣ܳܒ̣ܰܝܟ̇ܽܘܢ܀
+#12 ܐܰܡܻܝܪܽ ܗ̱ܘ ܡܶܢܟ݂ܽܘ݁ܢ ܕ݁ܺܐܝܬ݂ܰܘܗ̱ܝ ܫܠܳܡܳܐ ܒ݂ܰܟ݂̈ܬ݂ܳܒ݂ܰܝܟ݁ܽܘܢ܀
 +
 It is said by you (all) that there is peace in your books.
 ---
-#13 ܠܳܐ ܢܒ̣ܺܝܳܐ ܫܰܪܺܝܪܳܐ ܐܰܢ̱ܬ̇. ܠܳܐ ܡܩܰܒ̇ܠܻܝܢܱܢ ܡܶܠܰܝ̈ܟ̇܀
+#13 ܠܳܐ ܢܒ݂ܺܝܳܐ ܫܰܪܺܝܪܳܐ ܐܰܢ̱ܬ݁. ܠܳܐ ܡܩܰܒ݁ܠܻܝܢܱܢ ܡܶܠܰܝ̈ܟ݁܀
 +
 You are not a true prophet. We do not (will not) receive your words.
 attributive adj (true prophet)
 ---
-#14 ܐܻܝܬ̣ܶܝܗ̇ ܐܱܢ̱ܬ̇ܬ̣ܳܐ ܕ̣ܡܱܠܟܴ̇ܐ ܒ̣ܗܰܝܟ̇ܠܳܐ ܘܰܒܼܬ̣ܽܘ̈ܠܳܬ̣ܳܗ̇ ܨܶܝܕ̣ܶܝܗ̇܀
+#14 ܐܻܝܬ݂ܶܝܗ݁ ܐܱܢ̱ܬ݁ܬ݂ܳܐ ܕ݂ܡܱܠܟܴ݁ܐ ܒ݂ܗܰܝܟ݁ܠܳܐ ܘܰܒܼܬ݂ܽܘ̈ܠܳܬ݂ܳܗ݁ ܨܶܝܕ݂ܶܝܗ݁܀
 +
 She is the wife of the king in the palace, and her virgins are beside her.
 ---
-#15 ܐܰܡܺܝܪܳܐ ܗ̱ܝ ܠܢܶܫܷ̈ܐ ܒ̣ܺܝܫܳܬ̣ܳܐ ܕ̣ܠܴܐ ܛܳܒ̣̈ܳܢ ܐܶܢܶܝܢ ܡܶܠܱܝ̈ܟ̇ܶܝܢ܀
+#15 ܐܰܡܺܝܪܳܐ ܗ̱ܝ ܠܢܶܫܷ̈ܐ ܒ݂ܺܝܫܳܬ݂ܳܐ ܕ݂ܠܴܐ ܛܳܒ݂̈ܳܢ ܐܶܢܶܝܢ ܡܶܠܱܝ̈ܟ݁ܶܝܢ܀
 +
 It is said to the wicked women: "Your words are not good."
-(On ܕ̣ܠܴܐ, see IV. The Particle ܕ̣, p. 16, 1.5 (~1.4), introduce indirect speech)
+(On ܕ݂ܠܴܐ, see IV. The Particle ܕ݂, p. 16, 1.5 (~1.4), introduce indirect speech)
 ---

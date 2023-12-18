@@ -2,7 +2,7 @@
 
 https://quizlet.com/860581274
 
-#1 ܫܠܻܝܚܳܐ ܡܗܰܠܶܟ̣ ܗ̱ܘܳܐ ܒ̣ܗܰܝܟ̇ܠܴܐ ܕ̣ܕ̣ܰܗܒ̣ܳܐ܀
+#1 ܫܠܻܝܚܳܐ ܡܗܰܠܶܟ݂ ܗ̱ܘܳܐ ܒ݂ܗܰܝܟ݁ܠܴܐ ܕ݂ܕ݂ܰܗܒ݂ܳܐ܀
 השָליח היה מהלך
 +
 The apostle *was walking* in the temple of gold.
@@ -10,7 +10,7 @@ The apostle *was walking* in the temple of gold.
 
 a compound verb: PA + verb to be -> creates a new verb
 ---
-#2 ܡܰܠ̈ܟܷ̇ܐ ܕ̣ܰܐܪܥܳܐ ܐܳܡܪܺܝܢ ܕ̇ܰܰܟ̣ܬ̣ܺܝܒ̣ ܢܳܡܽܘܣܳܐ ܒ̣ܱܟ̣̈ܬ̣ܳܒ̣ܶܐ ܕ̣ܡܽܘܫܶܐ܀
+#2 ܡܰܠ̈ܟܷ݁ܐ ܕ݂ܰܐܪܥܳܐ ܐܳܡܪܺܝܢ ܕ݁ܰܰܟ݂ܬ݂ܺܝܒ݂ ܢܳܡܽܘܣܳܐ ܒ݂ܱܟ݂̈ܬ݂ܳܒ݂ܶܐ ܕ݂ܡܽܘܫܶܐ܀
 +
 The kings of the land say: "The Law is written in the books of Moses"
 ---
@@ -18,60 +18,60 @@ The kings of the land say: "The Law is written in the books of Moses"
 +
 #2 in Heb: The kings of the land say: "The Law is written in the books of Moses"
 ---
-#3 ܪ̈ܶܓ̣ܠܰܝ ܡܰܠܟ̇ܳܐ ܒ̣ܗܰܝܟ̇ܠܳܐ ܐܶܢܶܝܢ܀
+#3 ܪ̈ܶܓ݂ܠܰܝ ܡܰܠܟ݁ܳܐ ܒ݂ܗܰܝܟ݁ܠܳܐ ܐܶܢܶܝܢ܀
 +
 The feet of the king are in the temple.
 construct 1
 ---
-#4 ܣܳܡ ܡܰܠܟ̇ܳܐ ܒ̣ܺܝܫܳܐ ܓ̣ܫܽܘܡ ܓ̇ܰܒ̣ܪܳܐ ܥܰܠ ܩܰܪ̈ܢܶܐ ܕܬ̣ܰܘܪܳܐ܀
+#4 ܣܳܡ ܡܰܠܟ݁ܳܐ ܒ݂ܺܝܫܳܐ ܓ݂ܫܽܘܡ ܓ݁ܰܒ݂ܪܳܐ ܥܰܠ ܩܰܪ̈ܢܶܐ ܕܬ݂ܰܘܪܳܐ܀
 +
 The evil king placed (perf) the body of the man on the horns of the bull
 * 2 #1 constructs
 ---
-ܓ̣ܽܫܡܳܐ
+ܓ݂ܽܫܡܳܐ
 +
 determined of: ܓ̣ܫܽܘܡ 
 -> IJ: "you can see how the uu vowel fluctuates between R2 and R3, and R1 to R2" (!!)
 ---
-#5 ܒ̇ܙܰܒ̣̈ܢܶܐ ܗܳܠܶܝܢ ܐܶܟ̣ܰܠ ܢܒ̣ܺܝܳܐ ܕ̣ܡܱܠܟ̇ܳܐ ܠܒ̣ܶܣܪܳܐ ܘܶܐܫܬܻ̇ܝ ܠܚܰܡܪܳܐ܀
+#5 ܒ݁ܙܰܒ݂̈ܢܶܐ ܗܳܠܶܝܢ ܐܶܟ݂ܰܠ ܢܒ݂ܺܝܳܐ ܕ݂ܡܱܠܟ݁ܳܐ ܠܒ݂ܶܣܪܳܐ ܘܶܐܫܬܻ݁ܝ ܠܚܰܡܪܳܐ܀
 +
 In these times the prophet of the king ate the meat *and he drank* the wine.
 ---
-ܐܶܟ̣ܰܠ
+ܐܶܟ݂ܰܠ
 +
 he ate
 ---
-ܘܶܐܫܬܻ̇ܝ
+ܘܶܐܫܬܻ݁ܝ
 +
 he drank - Qal perf. stative
 and he drank
 ---
-#6 ܝܰܠ̈ܕ̇ܰܝ ܓ̇ܰܒ̣ܪ̈ܶܐ ܣܳܒ̣ܷ̈ܐ ܣܳܡܘ ܪ̈ܶܓ̣ܠܶܐ ܒ̣ܗܰܝܟ̇ܠܳܐ܀
+#6 ܝܰܠ̈ܕ݁ܰܝ ܓ݁ܰܒ݂ܪ̈ܶܐ ܣܳܒ݂ܷ̈ܐ ܣܳܡܘ ܪ̈ܶܓ݂ܠܶܐ ܒ݂ܗܰܝܟ݁ܠܳܐ܀
 +
 The children of the old men set (their) feet in the temple.
 (another #1 construct, also could be 1cs pron)
 ---
-#7 ܐܶܟ̣ܰܠ ܕ̇ܺܐܒ̣ܳܐ ܒ̣ܺܝܫܳܐ ܠܥܳܢܴ̈ܐ ܕ̣ܡܱܠܟ̇ܳܐ܀
+#7 ܐܶܟ݂ܰܠ ܕ݁ܺܐܒ݂ܳܐ ܒ݂ܺܝܫܳܐ ܠܥܳܢܴ̈ܐ ܕ݂ܡܱܠܟ݁ܳܐ܀
 אכל הזאב הרעה את צאן המלך
 +
 The evil (/wild) wolf ate the king's sheep.
 + Heb
 (IJ: 16:00)
 ---
-#8 ܐܶܟ̣ܰܠ ܫܠܺܝܚܳܐ ܡܶܐܟ̣ܽܘܠܬܴ̇ܐ ܚܕ̣ܰܬܴ̇ܐ܀
+#8 ܐܶܟ݂ܰܠ ܫܠܺܝܚܳܐ ܡܶܐܟ݂ܽܘܠܬܴ݁ܐ ܚܕ݂ܰܬܴ݁ܐ܀
 +
 The apostle ate (the) new food. (communion)
 ---
-#9 ܣܳܡ ܢܒ̣ܺܝܳܐ ܫܠܳܡܳܐ ܥܰܠ ܪܻ̈ܝܫܰܝ ܓ̇ܰܒ̣ܪ̈ܶܐ ܘܥܰܠ ܪ̈ܺܝܫܰܝ ܒ̇ܬ̣ܽܘ̈ܠܳܬ̣ܳܐ ܕ̣ܒ̣ܰܡܕ̣ܺܝܢ̱ܬܴ̇ܐ ܩܰܕ̇ܺܝܫܬܴܐ܀
+#9 ܣܳܡ ܢܒ݂ܺܝܳܐ ܫܠܳܡܳܐ ܥܰܠ ܪܻ̈ܝܫܰܝ ܓ݁ܰܒ݂ܪ̈ܶܐ ܘܥܰܠ ܪ̈ܺܝܫܰܝ ܒ݁ܬ݂ܽܘ̈ܠܳܬ݂ܳܐ ܕ݂ܒ݂ܰܡܕ݂ܺܝܢ̱ܬܴ݁ܐ ܩܰܕ݁ܺܝܫܬܴܐ܀
 +
 The prophet placed peace on the heads of the men and on the heads of the virgins who were in the holy city.
 ---
-#10 ܫܰܦܿܺܝܪ ܢܺܝܫܳܐ ܕ̣ܣܳܡ ܡܰܠܟ̇ܳܐ ܛܳܒ̣ܳܐ ܥܰܠ ܡܕ̣ܺܝܢ̱ܬܴ̇ܐ ܪܰܒ̇ܬ̣ܳܐ܀
+#10 ܫܰܦܿܺܝܪ ܢܺܝܫܳܐ ܕ݂ܣܳܡ ܡܰܠܟ݁ܳܐ ܛܳܒ݂ܳܐ ܥܰܠ ܡܕ݂ܺܝܢ̱ܬܴ݁ܐ ܪܰܒ݁ܬ݂ܳܐ܀
 יָפֶה הנֵס אשר המלך הטוב סָם על העיר הגדולָה
 +
 The standard (ensign etc) is beautiful which the good king placed on the great city.
 ---
-#11 ܒ̇ܣܰܪ ܓ̇ܰܒ̣ܪܳܐ ܩܛܺܝܠ ܗ̱ܽܘ. ܘܰܢܦ̣ܶܫ ܓ̇ܰܒ̣ܪܳܐ ܠܳܐ ܩܛܺܝܠܳܐ ܗ̱ܝ܀
+#11 ܒ݁ܣܰܪ ܓ݁ܰܒ݂ܪܳܐ ܩܛܺܝܠ ܗ̱ܽܘ. ܘܰܢܦ݂ܶܫ ܓ݁ܰܒ݂ܪܳܐ ܠܳܐ ܩܛܺܝܠܳܐ ܗ̱ܝ܀
 +
 The flesh of man (/the man) is killed. But the soul of man is not killed.
 
@@ -81,25 +81,25 @@ IJ: "a clumsy semitic way of saying: "human flesh is mortal"
 
 two adjectives (or PP?) in the abs.
 ---
-#12 ܢܳܣܶܒ̣ ܬܱ̇ܠܡܺܝܕ̣ܳܐ ܫܠܳܡܳܐ ܡܶܢ ܡܠܶܟ̣ ܡܱܠ̈ܟ̇ܶܐ܀
+#12 ܢܳܣܶܒ݂ ܬܱ݁ܠܡܺܝܕ݂ܳܐ ܫܠܳܡܳܐ ܡܶܢ ܡܠܶܟ݂ ܡܱܠ̈ܟ݁ܶܐ܀
 +
 The disciple is taking / getting peace from the king of kings.
 expression, construct #1, a cliche
 ---
-#13 ܐܶܫܬܻ̇ܝ ܫܠܺܝܚܳܐ ܒ̣ܰܙܒܼܰܢ ܒ̇ܰܙܒ̣ܰܢ ܠܚܱܡܪܳܐ܀
+#13 ܐܶܫܬܻ݁ܝ ܫܠܺܝܚܳܐ ܒ݂ܰܙܒܼܰܢ ܒ݁ܰܙܒ݂ܰܢ ܠܚܱܡܪܳܐ܀
 +
 The apostle drank wine at times.
 ---
-ܒ̣ܰܙܒܼܰܢ ܒ̇ܰܙܒ̣ܰܢ
+ܒ݂ܰܙܒܼܰܢ ܒ݁ܰܙܒ݂ܰܢ
 +
 at times, sometimes
 ---
-#14 ܢܳܛܰܪ ܫܠܺܝܚܳܐ ܠܰܛܠܳܝܷ̈ܐ ܘܠܳܐ ܩܛܺܝܠܻܝܢ ܐܶܢܽܘܢ ܡܶܢ ܚܶܢ̈ܓ̣ܳܬ̣ܳܐ܀
+#14 ܢܳܛܰܪ ܫܠܺܝܚܳܐ ܠܰܛܠܳܝܷ̈ܐ ܘܠܳܐ ܩܛܺܝܠܻܝܢ ܐܶܢܽܘܢ ܡܶܢ ܚܶܢ̈ܓ݂ܳܬ݂ܳܐ܀
 +
 The apostle keeps / watches over the children, SO that / in order that they are not killed (1PP mp) by torments.
 "so that" - paratax instead of syntax: two sentences following each other, where the purpose is subordination
 ---
-#15 ܡܰܠܟ̇ܬ̣ܳܐ ܗ̱ܝ ܚܰܒ̣ܪܰܬ̣ ܡܰܠܟܴ̇ܐ܀
+#15 ܡܰܠܟ݁ܬ݂ܳܐ ܗ̱ܝ ܚܰܒ݂ܪܰܬ݂ ܡܰܠܟܴ݁ܐ܀
 +
 The (/a) queen IS the companion of the king.
 #1 construct

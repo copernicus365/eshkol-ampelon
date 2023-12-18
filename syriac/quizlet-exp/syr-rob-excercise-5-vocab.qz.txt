@@ -7,7 +7,7 @@ https://quizlet.com/862866476
 speaking
 Pael PA ms
 ---
-ܡܛܽܘܠ ܕ̇
+ܡܛܽܘܠ ܕ݁
 +
 because
 + perf = because (intros a causitive clause)
@@ -19,11 +19,11 @@ because
 +
 belly (f.)
 ---
-ܐܶܣܟ̇ܽܘܦ̣ܬ̣ܳܐ
+ܐܶܣܟ݁ܽܘܦ݂ܬ݂ܳܐ
 +
 threshold
 ---
-ܡܝܰܩܰܪܬܴ̇ܐ
+ܡܝܰܩܰܪܬܴ݁ܐ
 +
 honored (PP f.)
 honoring (PA f.)
@@ -33,7 +33,7 @@ Could be PA or PP (both det), bec of the resh
 +
 this is
 ---
-ܥܓ̣ܶܠܬ̣ܳܐ
+ܥܓ݂ܶܠܬ݂ܳܐ
 +
 calf (f.)
 ---
@@ -46,7 +46,7 @@ killing PA
 +
 world, eternity +abs
 ---
-ܨܶܦ̇ܪܳܐ، ܨܶܦܱ̇ܪ
+ܨܶܦ݁ܪܳܐ، ܨܶܦܱ݁ܪ
 צִפּוֹר
 +
 bird + abs
@@ -56,11 +56,11 @@ bird + abs
 +
 lamb + abs
 ---
-ܡܰܕ̣ܪܶܟ
+ܡܰܕ݂ܪܶܟ
 +
 approaching (PA), Heb: a guide
 ---
-ܡܰܫܟ̇ܢܳܐ، ܡܰܫܟ̇ܶܢ
+ܡܰܫܟ݁ܢܳܐ، ܡܰܫܟ݁ܶܢ
 +
 tent, + abs
 ---
