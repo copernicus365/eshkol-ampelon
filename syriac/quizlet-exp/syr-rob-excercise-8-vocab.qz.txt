@@ -1,0 +1,106 @@
+# Robinson's Syriac Excercise #8 - Vocab
+
+https://quizlet.com/866543577
+
+ܡܺܝܬ݂ܰܬ݂
+מֵתָה
++
+she has died, +Heb
+Qal green stative fem.
+---
+ܡܪ ܝܨܚܩ ܝܪܘܫܠܡܝ
++
+Our friendly Semiticist
+---
+ܢܶܥܡܰܪ
++
+he will (/let him) live/dwell (3ms: impf or juss)
+we shall (/let us) live/dwell (1cp: impf or coh)
+root: to live, noun: Omar
+---
+ܢܥܰܕ݁ܪܰܢ
+יַעַזרֵינוּ
+עֵזֶר ✔️
++
+he will / may he help us (3ms Pael) (or cp)
++ Heb, + root
+---
+ܬܷ݁ܒ݂
+✔️ יתב
++
+sit! imp. m.s.
+---
+ܢܣܰܒ݂
+לקח, נטל
++
+he took +Heb
+---
+ܚܳܙܶܝܢ
+רֹאִים
++
+seeing m.pl. (3rd week PA m.pl.), +Heb
+---
+IJ on ܚܳܙܶܝܢ
++
+IJ insightful explantion of uncharacteristic 3rd weak masc. pl. ܙܶܝܢ: "and what you have here is the אַיִן of בָּנַיִן, 'building' (in Daniel Aramaic), Hebrew בֹּנִים, well that dipthong אַיִ becomes an 'ey' ܙܶܝ in Syriac, which is pretty much against Syriac's nature, because Syriac likes dipthongs, in this case it's the opposite, biblical Aramaic keeps the dipthong, and Syriac solves or resolves the dipthong by pushing it into becoming a long vowel. So we're going to have this constantly, a long vowel in the plural of masc. active and passive participles."
+NP: Re the irregularity here, my feeling is the irregularity is precisely the point: such a fundamentally important grammatical marking often needs, or wants, to be differentiated...
+---
+ܕ݁ܚܰܠ
++
+fear! imperative m.s. 
+IJ: "which looks like a Qal perf... but this verb is a stative verb [with a green theme vowel in perf]... therefore it's imperfect and imperative [and infinitive] are red."
+---
+ܕܚܶܠ, ܕܚܶܠܘ
++ fut ܢܶܕܚܰܠ
++ inf ܡܶܕܚܰܠ
++ PA ܕܳܚܶܠ
++
+he feared, they feared
++ he will fear
++ to fear
++ fearing
+---
+ܐܰܚܶܒ݂
++
+love! Aphel! impr. m.s.
+IJ: Aphel's "in all Aramaic dialects where the Haphel has become an Aphel, then 3 different persons look identical in spelling":
+= he loved: perf. 3ms
+= I will love: impf 1s
+= love!: impv 2ms.
+IJ: "a double ܥ shoresh"
+---
+ܗܳܪܟܴ݁ܐ
+הָכָא
++
+here
++ Talmudic Aramaic
+'r' -> "warshington"
+---
+ܐܻܝܣܪܳܐܷܠ
++
+Israel
+---
+ܣܰܓܻ݁ܝ
+ܣܰܓ݁ܺܝܳܐܐ
+ܣܰܓ݁ܺܝܴ̈ܐܬ݂ܳܐ
++
+many (adj)
++ emph
++ emph f.p.
+---
+ܗܦ݂ܽܘ̇ܟ݂ܝ
++
+return! imp. fs.
+orange verb in the impf
+---
+ܢܶܦ݁ܽܘ̇ܩ 
+יִפּוּק
++
+let us go out, +J.A.
+IJ: "the little dot on the waw is to tell us in the old language it used to be pronounced [with an o]: neppok. And indeed in the Targumim this verb is vocalized yippok, with an o and not with an u, it's amazing"
+---
+ܢܶܫܪܳܐ
++
+eagle
+IJ: green segolate noun
+---
