@@ -47,7 +47,7 @@ NP: Re the irregularity here, my feeling is the irregularity is precisely the po
 ---
 ܕ݁ܚܰܠ
 +
-fear! imperative m.s. 
+fear! imperative m.s.
 IJ: "which looks like a Qal perf... but this verb is a stative verb [with a green theme vowel in perf]... therefore it's imperfect and imperative [and infinitive] are red."
 ---
 ܕܚܶܠ, ܕܚܶܠܘ
@@ -93,7 +93,7 @@ many (adj)
 return! imp. fs.
 orange verb in the impf
 ---
-ܢܶܦ݁ܽܘ̇ܩ 
+ܢܶܦ݁ܽܘ̇ܩ
 יִפּוּק
 +
 let us go out, +J.A.
