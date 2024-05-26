@@ -1,0 +1,60 @@
+= Yeshayahu 1:1-x Notes
+:toc:
+
+== 'Vision' / חזה
+
+> The vb. חֲזָה. (a) As an Aram. loanword, the vb. (55×) and its derivatives appear alongside the vb. רָאָה for all kinds of sight and vision, but are especially associated with the visions of the prophets. - NID
+
+BDB:
+> (almost wholly poet.) see, behold (Aramaic ܚܙܳܐ (ḥzo), חֲזָא, see, perceive with the eyes
+
+TDOT:
+
+>  Distribution. As starting-point for the history of the root chāzāh and its derivatives in Hebrew we must first of all observe that we are dealing with an Aramaic loanword.
+
+Really important:
+
+>  Distribution. As starting-point for the history of the root chāzāh and its derivatives in Hebrew we must first of all observe that we are dealing with an Aramaic loanword. ...
+
+followed by an important listing of occurences. Note earlier TDOT noted that despite the 13 occurences of the root in Chronicles, "the 13 from Chronicles all deal with prophecy."
+
+Example:
+* כְּכֹל֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה וּכְכֹ֖ל הֶחָז֣וֹן הַזֶּ֑ה כֵּ֛ן דִּבֶּ֥ר נָתָ֖ן אֶל־דָּוִֽיד׃
+* וְיֶ֛תֶר דִּבְרֵ֥י יְחִזְקִיָּ֖הוּ וַחֲסָדָ֑יו הִנָּ֣ם כְּתוּבִ֗ים בַּחֲז֞וֹן יְשַֽׁעְיָ֤הוּ בֶן־אָמוֹץ֙ הַנָּבִ֔יא עַל־סֵ֥פֶר מַלְכֵי־יְהוּדָ֖ה וְיִשְׂרָאֵֽל׃
+
+> **What Is Received?** The answer is unambiguous: not a visual image but a word from God. In Gen. 15:1, God’s word comes to Abram in a machazeh. According to 1 S. 3:1, the word of God was rare, there was no chāzôn. In a chizzāyôn Nathan receives his commission from Yahweh, his words (2 S. 7:4, 17). According to Ps. 89:20(19), God spoke in a chāzôn; a chāzôn is thus an event in which words are received. In chezyônôth of the night Eliphaz receives the words that his ear perceives from God (Job 4:13;...
+
+Ps 89:20:
+* אָ֤ז דִּבַּ֥רְתָּֽ־בְחָ֡זוֹן לַֽחֲסִידֶ֗יךָ וַתֹּ֗אמֶר שִׁוִּ֣יתִי עֵ֭זֶר עַל־גִּבּ֑וֹר הֲרִימ֖וֹתִי בָח֣וּר מֵעָֽם׃
+
+Sadest of all, Micah 3:6, although, thankfully, v. 8 carries hope, tho it will be long till realized:
+
+* לָכֵ֞ן לַ֤יְלָה לָכֶם֙ מֵֽחָז֔וֹן וְחָשְׁכָ֥ה לָכֶ֖ם מִקְּסֹ֑ם וּבָ֤אָה הַשֶּׁ֙מֶשׁ֙ עַל־הַנְּבִיאִ֔ים וְקָדַ֥ר עֲלֵיהֶ֖ם הַיּֽוֹם׃ וּבֹ֣שׁוּ הַחֹזִ֗ים
+
+TDOT treating as earliest (Balaam)
+
+* נְאֻ֕ם שֹׁמֵ֖עַ אִמְרֵי־אֵ֑ל אֲשֶׁ֨ר מַחֲזֵ֤ה שַׁדַּי֙ יֶֽחֱזֶ֔ה נֹפֵ֖ל וּגְל֥וּי עֵינָֽיִם׃ - Num 24:4
+
+==== 1:4
+
+נִֽאֲצ֛וּ אֶת־קְד֥וֹשׁ יִשְׂרָאֵ֖ל נָזֹ֥רוּ אָחֽוֹר
+
+Instead of נָסֹגוּ אחור we have נָזֹ֥רוּ אָחֽוֹר!
+
+> Marti, for instance, proposes emending to נָסֹגוּ אחור, ‘they have turned backward’, i.e. backslidden, which occurs several times elsewhere, and which would be attractive because of the contrast at 50:5 - Will ICC
+
+> נזרו is the perfect niph‘al of זור I, attested otherwise only at Ezek. 14:5 in a not dissimilar context, meaning ‘they have become estranged’. אחור, a noun meaning ‘the back part’, is used adverbially, as frequently, here with the pregnant sense of ‘to go backwards’, a common enough construction;... The phrase therefore means that they have abandoned following Yahweh in favour of some older form of apostasy. Although many have found this difficult and proposed alternatives, none seems preferable...
+
+עָזְב֣וּ / נִֽאֲצ֛וּ
+
+יֹ֭שְׁבֵי חֹ֣שֶׁךְ וְצַלְמָ֑וֶת אֲסִירֵ֖י עֳנִ֣י וּבַרְזֶֽל׃ כִּֽי־הִמְר֥וּ אִמְרֵי־אֵ֑ל וַעֲצַ֖ת עֶלְי֣וֹן נָאָֽצוּ׃
+- Psalm 107:10-11
+
+See this and past v. 11 for hope
+
+
+
+
+
+
+
