@@ -1,0 +1,57 @@
+# Yeshayahu 1 - נכה Hiphil Hophal weak forms
+
+https://quizlet.com/927837880/
+
+עַ֣ל מֶ֥ה תֻכּ֛וּ ע֖וֹד
++
+"Why do you seek further beatings?" - Isa 1:5 (Tanakh)
+---
+תֻכּוּ
+form notes
++
+ye will be striken
+imperf 3mp "Hophal" of נכה, by-form נכא
+Obv a highly 'weak' form, R1 נ, R3 ה, with R1 נ in most forms completely subsumed, but its presence is always represented with the doubling of R2
+Other than ONE occurence in Niphal and Pual, all others are Hiphil or its passive form; and the perfect pass. forms have the ה prefix, thus certainly passive of Hiphil. A *so called* "Hophal", though as you can see in both perf and imperf the R1 binyan vowel is an orange U / ooo, a Huphal 😉
+---
+מֻכֵּה אֱלֹהִים
++
+"afflicted by God" Isa 53:4
+---
+מַכֶּה
+וַיַּרְא֙ אִ֣ישׁ מִצְרִ֔י מַכֶּ֥ה אִישׁ־עִבְרִ֖י מֵאֶחָֽיו׃
++
+"And (Moses) looked and saw an Egyptian man, striking a Hebrew man from his brothers", Exod 2:11
+---
+וְלֹֽא־אֹסִ֥ף ע֛וֹד לְהַכּ֥וֹת אֶת־כָּל־חַ֖י כַּֽאֲשֶׁ֥ר עָשִֽׂיתִי
++
+"And I will not again strike all living (creatures) as I have done" - Gen 8:21
+---
+הִכָּה
++
+he struck
+---
+הִכִּיתָ
++
+you struck
+---
+הִכֵּיתִי
++
+I struck
+---
+הוּכָּה
++
+he was struck
+---
+הֻכּוּ
++
+they were struck
+---
+הֻכְּתָה
++
+she was struck
+---
+הֻכֵּיתִי
++
+I was struck
+---
