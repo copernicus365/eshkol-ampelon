@@ -70,12 +70,34 @@ and "the blood of bulls, lambs, and goats I do not want." - NET
 +
 "Do not go on bringing your worthless offerings" - NAS
 ---
+בְפָרִשְׂכֶ֣ם - Pi'el infinitive + pron.suf | vocalization note
++
+ICC: "for the vocalization with hireq (against the expected segol); see GK §60f"
+
+GCK 60.f.4: "In Piʿēl, Pôʿēl, and Poʿlēl, the Ṣere of the final syllable, like the ō in Qal, becomes vocal Šewâ; but before the suffixes ־ ְךָ and ־ ְכֶם it is shortened to Seghôl, e.g. יְקַבֶּצְךָ Dt 30:4 ... **Less frequently Ṣere is sharpened to Ḥireq, e.g. אֲאַמִּצְכֶם **
+---
+וּבְפָרִשְׂכֶ֣ם כַּפֵּיכֶ֗ם - Is 1:15
+
+vs
+
+מִשָּׁ֗ם יְקַבֶּצְךָ֙ יְהוָ֣ה - Deut 30:4
+
+vs
+
+אֲאַמִּצְכֶ֥ם בְּמוֹ־פִ֑י - Job 16:5
++
+"when ye spread out your hands"
+
+"from there YHWH... will gather you"
+
+"Or I could strengthen you with my mouth"
+---
 אָוֶן
-+++
-"(evil) power, magic → אוֹן, אוֹנֶה, Mowinckel" - HAL
++
+* sin, injustice
+* disaster (still with a magical connotation ?)
+* root in: "(evil) power, magic → אוֹן, אוֹנֶה, Mowinckel" - HAL
 ... "sorcerer Mowinckel"
-disaster (still with a magical connotation ?)
-= sin, injustice
 ---
 הַאֹ֣רַח עוֹלָ֣ם תִּשְׁמֹ֑ר אֲשֶׁ֖ר דָּרְכ֣וּ מְתֵי־אָֽוֶן׃
 +
@@ -114,7 +136,7 @@ I will hide my eyes
 ---
 גַּ֛ם כִּֽי־תַרְבּ֥וּ תְפִלָּ֖ה אֵינֶ֣נִּי שֹׁמֵ֑עַ
 +
-"Indeed, even though you multiply prayers, I will not listen" - LSJ
+"Indeed, even though you multiply prayers, I will not listen" - LSB
 ---
 רַחֲצוּ֙
 +
@@ -135,7 +157,7 @@ remove! (pl)
 הָסֵר! / הָסִירוּ
 +
 'turn aside!'
-'remove (x)!'
+'remove (x)!' / 'remove (pl) (x)!'
 ---
 חִדְל֖וּ הָרֵֽעַ
 +
@@ -152,7 +174,7 @@ cease doing, refrain from
 ---
 לִמְד֥וּ הֵיטֵ֛ב
 +
-Learn to do good
+Learn (pl imv) to do good
 ---
 דִּרְשׁ֥וּ מִשְׁפָּ֖ט
 +
@@ -181,14 +203,15 @@ like scarlet
 +
 "They shall be as white as snow"
 ---
-sins / 'red' made white NET note
+sins ('red') made white NET note
 +
 NET Note: "The people’s sins will be removed and replaced by ethical purity. The sins that are now as obvious as the color red will be washed away and the ones who are sinful will be transformed."
 ---
-הִלְבִּינוּ, יַלְבִּינוּ
 hiph of לבן
+הִלְבִּינוּ, יַלְבִּינוּ
 +
 "to become white" (HAL)
+They became white / They will become white
 ---
 שָׂ֤ם גַּפְנִי֙ לְשַׁמָּ֔ה ... הִלְבִּ֖ינוּ שָׂרִיגֶֽיהָ
 +
