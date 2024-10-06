@@ -1,0 +1,148 @@
+/*
+Sadly sefaria.org doesn't have a dark theme on desktop, though it does in the apps. See: 
+
+https://www.sefaria.org/sheets/215584.26?lang=bi&with=all&lang2=en
+
+But we can add our custom css to a site with browser extensions like these:
+
+https://chromewebstore.google.com/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb
+(or see also: https://chromewebstore.google.com/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld )
+
+Add the following to one of those to get a dark theme on the beautiful sefaria.org!
+*/
+
+.textColumn,
+.readerPanel.light {
+  background-color: inherit;
+  background-color: #111;
+  color: #eee;
+}
+.categoryFilter {
+  color: #ccc;
+}
+.textList,
+.textList .texts {
+  background-color: #222;
+  color: #eee;
+}
+.readerPanel h2,
+.readerPanel h3,
+.translationsPage details > summary {
+  color: #eee;
+}
+
+.textList .texts a {
+  color: #ccc;
+}
+
+.navSidebar {
+  background-color: #222;
+}
+.navSidebarLink a {
+  color: #eee;
+}
+.navSidebarModule {
+  color: #ccc;
+}
+.readerNavMenu h1,
+.readerNavMenu h2.styledH1 {
+  color: #bbb;
+}
+
+.segment .segmentNumber,
+.segment .linkCount,
+.textRange .numberLabel {
+  background-color: inherit;
+  color: #eee;
+}
+.segment .refLink,
+.scrollLink {
+  color: #777;
+}
+
+.basetext .segment.highlight,
+.sheetContent .segment.highlight .en,
+.sheetContent .segment.highlight .he,
+.sheetContent .textPreviewSegment.highlight,
+.editTextInfo .textPreviewSegment.highlight,
+.readerPanel.bilingual.heLeft .sheetContent .segment.highlight,
+.readerPanel.bilingual.heRight .sheetContent .segment.highlight,
+.editorContent .sheetItem.highlight,
+.editorContent .sheetItem.highlight .SheetSource .en,
+.editorContent .sheetItem.highlight .SheetSource::after {
+  background-color: #222;
+}
+
+.textRange.basetext .title,
+.sheetContent .customSourceTitle {
+  color: #eee;
+}
+
+.header .searchBox {
+  color: #eee;
+  background-color: #222;
+}
+.header .home img {
+  color: #eee;
+}
+
+.headerInner {
+  background-color: #111;
+}
+.headerInner .headerNavSection a {
+  color: #ccc;
+}
+
+.readerOptionsPanel {
+  background-color: #222;
+}
+
+/*readerControls*/
+.readerControls {
+  background-color: #222;
+  color: #eee;
+}
+.readerControls.connectionsHeader,
+.readerControls.connectionsHeader.fullPanel {
+  background-color: #303030;
+  color: #eee;
+}
+.readerControls .connectionsPanelHeader .connectionsHeaderTitle {
+  color: #ccc;
+}
+/*transLangPrefSuggBann*/
+.readerControls.transLangPrefSuggBann {
+  background-color: #303030;
+}
+.readerControls .readerControlsInner.transLangPrefSuggBannInner {
+  color: #ccc;
+}
+.readerControls .readerControlsInner.transLangPrefSuggBannInner .yesNoButton {
+  background-color: #222;
+}
+
+a.navBlockTitle {
+  color: #ccc;
+}
+
+.textTableOfContents .sectionLink {
+  background-color: #222;
+  color: #ccc;
+}
+.textTableOfContents .schema-node-title {
+  color: #ccc;
+}
+.tab-view .tab-list .tab {
+  color: #eee;
+}
+#footer {
+  background-color: #111;
+  color: #ccc;
+  border-top: 1px solid #aaa;
+}
+#footer a {
+  color: #aaa;
+}
+#footer .section .header {
+  color: #fff;
+}
