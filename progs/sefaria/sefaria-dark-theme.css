@@ -168,3 +168,7 @@ a.navBlockTitle {
 .textList .recentFilterSet .textFilter.on, .connectionsPanelHeader .recentFilterSet.topFilters .textFilter.on {
   color: #ddd;
 }
+.stacked.bilingual .basetext .segment > p > .en {
+  color: #e3dddd;
+  font-size: 1.0em;
+}
