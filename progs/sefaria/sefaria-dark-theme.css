@@ -172,3 +172,9 @@ a.navBlockTitle {
   color: #e3dddd;
   font-size: 1.0em;
 }
+.parashahHeader {
+  color: #dfdfdf;
+}
+.segment .linkCountDot {
+  background-color: inherit;
+}
