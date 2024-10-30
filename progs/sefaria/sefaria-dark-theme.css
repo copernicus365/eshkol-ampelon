@@ -178,3 +178,8 @@ a.navBlockTitle {
 .segment .linkCountDot {
   background-color: inherit;
 }
+
+.basetext .segment:active,
+.basetext .segment:focus {
+  background-color: #444;
+}
