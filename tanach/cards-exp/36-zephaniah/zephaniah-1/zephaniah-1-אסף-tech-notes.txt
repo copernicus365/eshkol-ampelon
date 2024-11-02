@@ -28,7 +28,7 @@ Says the expected continuation from the inf. abs. was the 1s impf.
 NOTE! This would be perfect assonance! Instead of MT:
 
 אָסֹ֨ף אָסֵ֜ף
-
+to:
 אָסֹ֨ף אֹסַף
 
 With ah-oh -> oh-ah chiastic match of the vowels!
@@ -38,3 +38,4 @@ With ah-oh -> oh-ah chiastic match of the vowels!
 Dietrich on the puzzling problem of asaf being just as easily positive as negative:
 
 > The beginning of the text is puzzling and unsettling in equal measure. The verb “gather in” (אסף) produces an iridiscent play of colors. On the one hand it can mean the bringing in of the harvest or collecting food (e.g. Exod 23:10; Num 11:32). This association is established by its use in combination with the noun אדמה, “farmland, fields.” On the other hand, it can take on a threatening tone and   p 204  designate the “taking away” (e.g., of peace in Jer 16:5 or of life in Ps 104:29) or even the “wiping out” of humans (1 Sam 15:6). In the narrative of the Flood, the phrase “away from the face of the fields” appears many times; is that being alluded to here?
+
