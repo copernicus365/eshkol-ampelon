@@ -1,6 +1,6 @@
 # Zephaniah 1:1-ff
 
----
+
 צְפַנְיָה֙
 +
 Zephaniah
@@ -11,19 +11,23 @@ see separate quizlet on "Zephaniah 1 - אסף + סוף forms"
 ---
 אָסֹ֨ף אָסֵ֜ף כֹּ֗ל מֵעַ֛ל פְּנֵ֥י הָאֲדָמָ֖ה
 +
-"Sweeping [gather] away, I will bring to an end." (NET nt, אסף inf-ab + סוף)
+"Sweeping away [i.e. gathering -> removing], I will bring to an end." (NET nt, אסף inf-ab + סוף)
 see separate quizlet on אָסֹ֨ף
 ---
-אָסֵ֜ף pointing alt Dietrich (✔️ אסף in אָסֹ֨ף אָסֵ֜ף
+אָסֵ֜ף alternative pointing by Dietrich (✔️ אסף in אָסֹ֨ף אָסֵ֜ף)
 +
 אָסֹ֨ף אֹסַף כֹּ֗ל
-אֹסֵף
 אֹסֵף contracted אֶאֱסֹף (see wcons וַיֹּסֶף)
 "I shall totally gather up / remove all"...
 ---
 מַכְשֵׁלָה
 וְהַמַּכְשֵׁל֖וֹת אֶת־הָרְשָׁעִ֑ים
 +
+
+---
+לְכָ֔ה קָצִ֖ין תִּֽהְיֶה־לָּ֑נוּ וְהַמַּכְשֵׁלָ֥ה הַזֹּ֖את תַּ֥חַת יָדֶֽךָ׃ - ישׁ ג״ו״
++
+" you shall be our ruler! And these ruins will be under your authority" - Is 3:6, NAS
 ---
 מִכְשׁוֹל
 וּלְאֶ֣בֶן נֶ֠גֶף וּלְצ֨וּר מִכְשׁ֜וֹל
@@ -31,13 +35,15 @@ see separate quizlet on אָסֹ֨ף
 stumbling, means or occasion of stumbling, stumbling-block
 "and a stone of offense and a rock of stumbling" - Is 8:14
 ---
+ὥσπερ οὖν συλλέγεται τὰ ζιζάνια καὶ πυρὶ ⸀κατακαίεται, ... ἀποστελεῖ ὁ υἱὸς τοῦ ἀνθρώπου τοὺς ἀγγέλους αὐτοῦ,* καὶ συλλέξουσιν* ἐκ τῆς βασιλείας αὐτοῦ πάντα τὰ σκάνδαλα καὶ τοὺς ποιοῦντας τὴν ἀνομίαν 42 καὶ ⸀βαλοῦσιν αὐτοὺς εἰς τὴν κάμινον τοῦ πυρός
++
+Just as the weeds are gathered and burned with fire ... The Son of Man will send his angels, and they will gather out of his kingdom all causes-of-sin [τὰ σκάνδαλα] and all law-breakers, 42 and throw them into the fiery furnace. In that place there will be weeping and gnashing of teeth. - Matt 13:40ff
+---
 כָּשַׁל
  וְכָשְׁל֧וּ אִישׁ־בְּאָחִ֛יו כְּמִפְּנֵי־חֶ֖רֶב וְרֹדֵ֣ף אָ֑יִן
 +
 stumble, stagger
 "They shall stumble over one another, as if to escape a sword, though no one pursues" - Lev 26:37, NRS
----
-+
 ---
 כִּ֤י לֹ֣א יִֽ֭שְׁנוּ אִם־לֹ֣א יָרֵ֑עוּ וְֽנִגְזְלָ֥ה שְׁ֝נָתָ֗ם אִם־לֹ֥א יִכְשׁוֹלוּ׃ (ketiv יַכְשִֽׁולוּ) - מ טז
 +
@@ -53,25 +59,41 @@ what remains, the rest, residue, remnant
 "is used in connection with particular groups of people to mean: α) all the survivors ...
 ---
 שְׁאָר יָשׁוּב
-s שְׁאֵרִית
+see שְׁאֵרִית
 +
 a remnant shall return (Is 7:3)
+---
+שְׁאָ֣ר הַבַּ֔עַל
++
+The remnant of Baal
 ---
 כמרים
 +
 pagan priests / idolatrous priests
 “servants of the astral cult” (Dietrich)
 "was the official designation of the priests of Baal (2 Kings 23:5); these were entirely to disappear; this is what is meant by the destruction of the name" - Lange
+"orig. meaning the excited one, the hot one (Mowinckel) - HAL"
 ---
+בִקְשׁ֥וּ ... דְרָשֻֽׁהוּ
+וַאֲשֶׁ֛ר לֹֽא־בִקְשׁ֥וּ אֶת־יְהוָ֖ה וְלֹ֥א דְרָשֻֽׁהוּ׃
 +
+"who do not seek the LORD and do not inquire of him" (NET note)
+"The present translation assumes the first verb refers to praying for divine help and the second to seeking his revealed will through an oracle. Note the usage of the two verbs in 2 Chr 20:3-4"
 ---
+וְאֶת־הַנְּסוֹגִ֖ים מֵאַחֲרֵ֣י יְהוָ֑ה
 +
+"those who have turned back from following the LORD, who do not seek the LORD or inquire of him."
 ---
+הַנְּסוֹגִ֖ים
+נָסוֹג var. of נָשׂוֹג, niph
+סוג: → שׂוג
 +
+2. to become disloyal
+1. with אָחוֹר to turn back, withdraw, flee 
 ---
+וַיִּסֹּ֣גוּ וַֽ֭יִּבְגְּדוּ כַּאֲבוֹתָ֑ם נֶ֝הְפְּכ֗וּ כְּקֶ֣שֶׁת רְמִיָּֽה׃ - תה״ עח,נז
 +
----
-+
+"But turned back and acted treacherously like their fathers; They turned aside like a treacherous bow." - Ps 78:56, NAS
 ---
 +
 ---
