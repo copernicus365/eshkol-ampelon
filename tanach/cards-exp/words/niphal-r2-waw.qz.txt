@@ -3,8 +3,9 @@
 https://quizlet.com/969568880/niphal-verb-r2-waw-forms-flash-cards/
 
 
-## Perfect masc sing
+Section: Niphal R2 Waw - Perfect masc sing
 +
+Section: נָכ֖וֹן
 logos: `lemma.h:?ו?@Vd[Pp]3MS`
 ---
 נָמ֖וֹג
@@ -33,8 +34,9 @@ Be silent, all flesh, before YHWH, for he has roused himself from his holy dwell
 who has joined himself
 "Let not the foreigner who has joined himself to YHWH say" - Is 56:3 ESV
 ---
-## Perfect fem sing
+Section: Niphal R2 Waw - Perfect fem sing
 +
+Section: נָכ֖וֹנָה
 logos: `lemma.h:?ו?@Vd[Pp]3FS`
 ---
 נָכ֖וֹנָה
@@ -49,9 +51,9 @@ So the kingdom was established in the hand of Solomon. - 1Kng 2:46
 She was scattered
 therefore they have not prospered, and all their flock is scattered. - Jer 10:21
 ---
-
-## Perfect *not-weak* examples
+Section: Niphal (not weak) - Perfect examples
 +
+Section: נִקְרַ֥ב
 ---
 נִקְרַ֥ב
 אִם־לֹ֤א יִמָּצֵא֙ הַגַּנָּ֔ב וְנִקְרַ֥ב בַּֽעַל־הַבַּ֖יִת אֶל־הָֽאֱלֹהִ֑ים ־ שמות כב,ז
@@ -73,9 +75,9 @@ It was captured
 It / he was forgotten
 "but after them there will arise seven years of famine, and all the plenty will be forgotten in the land of Egypt." - Gen 41:30
 ---
-
-## Imperfect
+Section: Niphal R2 Waw Imperfects
 +
+Section: יִכָּלְמוּ֮
 logos: `lemma.h:?ו?@Vd[IWw]3M`
 ---
 וְיִכָּלְמוּ֮ ... יִסֹּ֣גוּ אָח֣וֹר
@@ -84,10 +86,9 @@ logos: `lemma.h:?ו?@Vd[IWw]3M`
 Let them be ashamed ... let them turn back...
 "Let them be put to shame and dishonor who seek after my life! Let them be turned back and disappointed who devise evil against me!" - Ps 35:4
 ---
-
-
-## Imperfect *not-weak* examples
+Section: Niphal Imperfects not weak
 +
+Section: יִפָּרֵ֔ד
 logos: `lemma.h:???@Vd[IWw]3MS`
 ---
 יִפָּרֵ֔ד
