@@ -7,7 +7,6 @@
 אָסֵ֜ף pointing alt Dietrich (✔️ אסף in אָסֹ֨ף אָסֵ֜ף
 +
 אָסֹ֨ף אֹסַף כֹּ֗ל
-אֹסֵף
 אֹסֵף contracted אֶאֱסֹף (see wcons וַיֹּסֶף)
 "I shall totally gather up / remove all"...
 ---
@@ -17,29 +16,31 @@
 "Hiph. make an end of, only [occurrence] (if text correct) Impf. 1 s. ( + Inf. abs. אָסֹף, chosen for assonance, v. אסף)
 ---
 וְאָסַפְתָּ֖
-וְשֵׁ֥שׁ שָׁנִ֖ים תִּזְרַ֣ע אֶת־אַרְצֶ֑ךָ וְאָסַפְתָּ֖ אֶת־תְּבוּאָתָֽהּ׃
+וְשֵׁ֥שׁ שָׁנִ֖ים תִּזְרַ֣ע אֶת־אַרְצֶ֑ךָ וְאָסַפְתָּ֖ אֶת־תְּבוּאָתָֽהּ׃ ־ שׁמות כג,י
 +
 and you shall gather (positive sense of gather)
 "Now you shall sow your land for six years and gather in its produce" - Exod 23:10, LSB
 ---
-כִּֽי־אָסַ֨פְתִּי אֶת־שְׁלוֹמִ֜י מֵאֵ֨ת הָעָ֤ם־הַזֶּה֙ נְאֻם־יְהוָ֔ה אֶת־הַחֶ֖סֶד וְאֶת־הָֽרַחֲמִֽים׃
+אָסַ֨פְתִּי (neg)
+כִּֽי־אָסַ֨פְתִּי אֶת־שְׁלוֹמִ֜י מֵאֵ֨ת הָעָ֤ם־הַזֶּה֙ נְאֻם־יְהוָ֔ה אֶת־הַחֶ֖סֶד וְאֶת־הָֽרַחֲמִֽים׃ ־ יר״מ טז,ה
 +
-"'For I have ("gathered" =) withdrawn / taken away My peace from this people,' declares YHWH, 'My favor and compassion.'" - Jer 16:5
+"I have gathered (taken away, neg. sense)
+"'For I have withdrawn (taken away, lit. 'gathered') My peace from this people,' declares YHWH, 'My favor and compassion.'" - Jer 16:5
 ---
-וְסָפ֛וּ // וְאָבְד֞וּ
-וְאָבְד֞וּ בָּתֵּ֣י הַשֵּׁ֗ן וְסָפ֛וּ בָּתִּ֥ים רַבִּ֖ים
+וְאָבְד֞וּ ... וְסָפ֛וּ
+וְאָבְד֞וּ בָּתֵּ֣י הַשֵּׁ֗ן וְסָפ֛וּ בָּתִּ֥ים רַבִּ֖ים ־ עמוס ג,טו
 +
 they shall perish // they shall be ended
 "and the houses of ivory shall perish, and the great houses shall come to an end" - Amos 3:15, NRSV
 ---
 יָסֻ֖פוּ
-הַמִּתְקַדְּשִׁ֨ים וְהַמִּֽטַּהֲרִ֜ים אֶל־הַגַּנּ֗וֹת ... אֹֽכְלֵי֙ בְּשַׂ֣ר הַחֲזִ֔יר ... יַחְדָּ֥ו יָסֻ֖פוּ נְאֻם־יְהוָֽה׃
+הַמִּתְקַדְּשִׁ֨ים וְהַמִּֽטַּהֲרִ֜ים אֶל־הַגַּנּ֗וֹת ... אֹֽכְלֵי֙ בְּשַׂ֣ר הַחֲזִ֔יר ... יַחְדָּ֥ו יָסֻ֖פוּ נְאֻם־יְהוָֽה׃ ־ יש״ע סו,יז
 +
 "shall come to an end"
-"Those who sanctify and purify themselves to go into the gardens, ... eating the flesh of pigs, ... shall come to an end together, says the LORD." - Is 66:17, NRSV
+"Those who sanctify and purify themselves to go into the gardens, ... eating the flesh of pigs, ... shall come to an end together, says YHWH" - Is 66:17, NRSV
 ---
 סוֹף ז״ / עַד־סֽוֹף
-מִבְּלִ֞י אֲשֶׁ֧ר לֹא־יִמְצָ֣א הָאָדָ֗ם אֶת־הַֽמַּעֲשֶׂ֛ה אֲשֶׁר־עָשָׂ֥ה הָאֱלֹהִ֖ים מֵרֹ֥אשׁ
+מִבְּלִ֞י אֲשֶׁ֧ר לֹא־יִמְצָ֣א הָאָדָ֗ם אֶת־הַֽמַּעֲשֶׂ֛ה אֲשֶׁר־עָשָׂ֥ה הָאֱלֹהִ֖ים מֵרֹ֥אשׁ ־ קה״ל ג,יא
 +
 end / "to the end"
 "except that man cannot find out the work which God has done from the beginning to the end" - Eccl 3:11
@@ -81,8 +82,8 @@ the borders of the land, ends of the world
 boundless, infinite
 ---
 הָאֹסֵ֨ף
-וְ֠כִבֶּס הָאֹסֵ֨ף אֶת־אֵ֤פֶר הַפָּרָה֙ אֶת־בְּגָדָ֔יו וְטָמֵ֖א עַד־הָעָ֑רֶב
+וְ֠כִבֶּס הָאֹסֵ֨ף אֶת־אֵ֤פֶר הַפָּרָה֙ אֶת־בְּגָדָ֔יו וְטָמֵ֖א עַד־הָעָ֑רֶב ־ במדבר יט,י
 +
-’the one who gathers’
+'the one who gathers'
 "And the one who gathers the ashes of the heifer shall wash his clothes and will be unclean until evening;" - Num 19:10, NAS
 ---

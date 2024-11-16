@@ -1,0 +1,115 @@
+# Niphal R2 waw forms etc
+
+https://quizlet.com/969568880/niphal-verb-r2-waw-forms-flash-cards/
+
+
+## Perfect masc sing
++
+logos: `lemma.h:?ו?@Vd[Pp]3MS`
+---
+נָמ֖וֹג
+וְהִנֵּ֧ה הֶהָמ֛וֹן נָמ֖וֹג וַיֵּ֥לֶךְ וַהֲלֹֽם׃ ־ שמ״א יד,טז
++
+he melted
+the crowd melted and went, even here [and there]. - 1Sam 14:16
+---
+נִמּ֖וֹל
+בְּעֶ֙צֶם֙ הַיּ֣וֹם הַזֶּ֔ה נִמּ֖וֹל אַבְרָהָ֑ם ־ בר״א יז,כו
+Note: נִמּ with nee + R1 double, vs normal naa (long ah) נָמ as in נָמ֖וֹג and no double
++
+he was circumcised
+"On that very day, Abraham ... was circumcised." - Gen 17:26
+---
+נֵע֖וֹר
+הַ֥ס כָּל־בָּשָׂ֖ר מִפְּנֵ֣י יְהוָ֑ה כִּ֥י נֵע֖וֹר מִמְּע֥וֹן קָדְשֽׁוֹ׃ ־ זכ״ר ב,יג
+Seems to act like נִמּ֖וֹל, want's to double with green
++
+he has roused himself
+Be silent, all flesh, before YHWH, for he has roused himself from his holy dwelling. - Zech 2:13 ESV
+---
+הַנִּלְוָ֤ה
+וְאַל־יֹאמַ֣ר בֶּן־הַנֵּכָ֗ר הַנִּלְוָ֤ה אֶל־יְהוָה֙ לֵאמֹ֔ר ־ יש״ע נו,ג
++
+who has joined himself
+"Let not the foreigner who has joined himself to YHWH say" - Is 56:3 ESV
+---
+## Perfect fem sing
++
+logos: `lemma.h:?ו?@Vd[Pp]3FS`
+---
+נָכ֖וֹנָה
+וְהַמַּמְלָכָ֥ה נָכ֖וֹנָה בְּיַד־שְׁלֹמֹֽה׃ ־ מל״ב ב,מו
++
+She was established
+So the kingdom was established in the hand of Solomon. - 1Kng 2:46
+---
+נָפֽוֹצָה
+עַל־כֵּן֙ לֹ֣א הִשְׂכִּ֔ילוּ וְכָל־מַרְעִיתָ֖ם נָפֽוֹצָה׃ ־ יר״מ י,כא
++
+She was scattered
+therefore they have not prospered, and all their flock is scattered. - Jer 10:21
+---
+
+## Perfect *not-weak* examples
++
+---
+נִקְרַ֥ב
+אִם־לֹ֤א יִמָּצֵא֙ הַגַּנָּ֔ב וְנִקְרַ֥ב בַּֽעַל־הַבַּ֖יִת אֶל־הָֽאֱלֹהִ֑ים ־ שמות כב,ז
++
+He was brought near
+"If the thief is not caught, then the owner of the house will be brought before the judges.." - Exod 22:7
+---
+נִשְׁבַּ֥ר
+נִשְׁבָּ֖ה
+כִּֽי־יִתֵּן֩ אִ֨ישׁ אֶל־רֵעֵ֜הוּ חֲמ֨וֹר אוֹ־שׁ֥וֹר .. לִשְׁמֹ֑ר וּמֵ֛ת אוֹ־נִשְׁבַּ֥ר אוֹ־נִשְׁבָּ֖ה אֵ֥ין רֹאֶֽה׃ ־ שמות כב,ט
++
+It was / is (if PA) broken
+It was captured
+"If a man gives to his neighbor a donkey or an ox ..to keep safe, and it dies *or is injured* [broken] or is driven away, without anyone seeing it" - Exod 22:9
+---
+נִשְׁכַּ֥ח
+וְ֠קָמוּ שֶׁ֨בַע שְׁנֵ֤י רָעָב֙ אַחֲרֵיהֶ֔ן וְנִשְׁכַּ֥ח כָּל־הַשָּׂבָ֖ע בְּאֶ֣רֶץ מִצְרָ֑יִם ־ בר״א מא,ל
++
+It / he was forgotten
+"but after them there will arise seven years of famine, and all the plenty will be forgotten in the land of Egypt." - Gen 41:30
+---
+
+## Imperfect
++
+logos: `lemma.h:?ו?@Vd[IWw]3M`
+---
+וְיִכָּלְמוּ֮ ... יִסֹּ֣גוּ אָח֣וֹר
+יֵבֹ֣שׁוּ וְיִכָּלְמוּ֮ מְבַקְשֵׁ֪י נַ֫פְשִׁ֥י יִסֹּ֣גוּ אָח֣וֹר וְיַחְפְּר֑וּ חֹ֝שְׁבֵ֗י רָעָתִֽי׃ ־ תה״ל לה,ד
++
+Let them be ashamed ... let them turn back...
+"Let them be put to shame and dishonor who seek after my life! Let them be turned back and disappointed who devise evil against me!" - Ps 35:4
+---
+
+
+## Imperfect *not-weak* examples
++
+logos: `lemma.h:???@Vd[IWw]3MS`
+---
+יִפָּרֵ֔ד
+וְנָהָר֙ יֹצֵ֣א מֵעֵ֔דֶן לְהַשְׁק֖וֹת אֶת־הַגָּ֑ן וּמִשָּׁם֙ יִפָּרֵ֔ד וְהָיָ֖ה לְאַרְבָּעָ֥ה רָאשִֽׁים׃ ־ בר״א ב,י
++
+It divides
+"Now a river flows from Eden to water the orchard, and from there it divides into four headstreams." - Gen 2:10
+---
+יִקָּרֵ֣א
+וּבָשָׂ֖ר מִבְּשָׂרִ֑י לְזֹאת֙ יִקָּרֵ֣א אִשָּׁ֔ה ־ בר״א ב,כג
++
+he shall be called
+To this one (f) *it (m) shall be called [out loud]*: 'woman' - Gen 2:23
+---
+יִּוָּלֵ֤ד
+וַיִּוָּלֵ֤ד לַֽחֲנוֹךְ֙ אֶת־עִירָ֔ד ־ בר״א ה,יח
++
+And to Enoch was born Irad. - Gen 5:18
+---
+יִשָּׁפֵ֑ךְ
+שֹׁפֵךְ֙ דַּ֣ם הָֽאָדָ֔ם בָּֽאָדָ֖ם דָּמ֣וֹ יִשָּׁפֵ֑ךְ ־ בר״א ט,ו
++
+It (m) shall be poured
+He who sheds (pours) the blood of man, by man shall his blood be shed. - Gen 9:6
+---
