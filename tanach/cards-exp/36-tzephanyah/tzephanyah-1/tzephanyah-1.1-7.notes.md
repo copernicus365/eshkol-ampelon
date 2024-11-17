@@ -1,4 +1,4 @@
-# Tzephanyah 1:1-7 notes
+# Tzephanyah 1:1-7 - notes
 
 (ideally notes here are less about technical only and more inspirational / heart of the text, rich cross refs, etc)
 
