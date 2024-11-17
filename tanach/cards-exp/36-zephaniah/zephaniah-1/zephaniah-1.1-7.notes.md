@@ -1,4 +1,4 @@
-# Zephaniah 1:1-ff notes
+# Tzephanyah 1:1-7 notes
 
 (ideally notes here are less about technical only and more inspirational / heart of the text, rich cross refs, etc)
 
@@ -37,6 +37,13 @@ See Malachai 2:6-9
 v. 8: הִכְשַׁלְתֶּ֥ם רַבִּ֖ים בַּתּוֹרָ֑ה
 
 They shall stumble over one another, as if to escape a sword, though no one pursues
+
+Interesting! Connection between machshel (cause to stumble) and bikkshu (seek after God) in Mal 2:6-8
+
+תּוֹרַ֤ת אֱמֶת֙ הָיְתָ֣ה בְּפִ֔יהוּ וְעַוְלָ֖ה לֹא־נִמְצָ֣א בִשְׂפָתָ֑יו בְּשָׁל֤וֹם וּבְמִישׁוֹר֙ הָלַ֣ךְ אִתִּ֔י וְרַבִּ֖ים הֵשִׁ֥יב מֵעָוֺֽן׃
+7       כִּֽי־שִׂפְתֵ֤י כֹהֵן֙ יִשְׁמְרוּ־דַ֔עַת וְתוֹרָ֖ה יְבַקְשׁ֣וּ מִפִּ֑יהוּ כִּ֛י מַלְאַ֥ךְ יְהוָֽה־צְבָא֖וֹת הֽוּא׃
+8       וְאַתֶּם֙ סַרְתֶּ֣ם מִן־הַדֶּ֔רֶךְ הִכְשַׁלְתֶּ֥ם רַבִּ֖ים בַּתּוֹרָ֑ה שִֽׁחַתֶּם֙ בְּרִ֣ית הַלֵּוִ֔י אָמַ֖ר יְהוָ֥ה צְבָאֽוֹת׃
+־ מלאכי ב,ו־ח
 
 ---
 
@@ -101,25 +108,28 @@ REMNANT -
 Huge remnant passage, Is 10:19-22
 
 וּשְׁאָ֥ר עֵ֛ץ יַעְר֖וֹ מִסְפָּ֣ר יִֽהְי֑וּ וְנַ֖עַר יִכְתְּבֵֽם׃ וְהָיָ֣ה׀ בַּיּ֣וֹם הַה֗וּא לֹֽא־יוֹסִ֨יף ע֜וֹד שְׁאָ֤ר יִשְׂרָאֵל֙ וּפְלֵיטַ֣ת בֵּֽית־יַעֲקֹ֔ב לְהִשָּׁעֵ֖ן עַל־מַכֵּ֑הוּ וְנִשְׁעַ֗ן עַל־יְהוָ֛ה קְד֥וֹשׁ יִשְׂרָאֵ֖ל בֶּאֱמֶֽת׃ שְׁאָ֥ר יָשׁ֖וּב שְׁאָ֣ר יַעֲקֹ֑ב אֶל־אֵ֖ל גִּבּֽוֹר׃ כִּ֣י אִם־יִהְיֶ֞ה עַמְּךָ֤ יִשְׂרָאֵל֙ כְּח֣וֹל הַיָּ֔ם שְׁאָ֖ר יָשׁ֣וּב בּ֑וֹ כִּלָּי֥וֹן חָר֖וּץ שׁוֹטֵ֥ף צְדָקָֽה׃
+־ ישע י,יט־כב
 
 And the rest of the trees of his forest will be so small in number That a child could write them down. Now on that day the remnant of Israel, and those of the house of Jacob who have escaped, will no longer rely on the one who struck them, but will truly rely on the LORD, the Holy One of Israel. A remnant will return, the remnant of Jacob, to the mighty God. For though your people, Israel, may be like the sand of the sea, Only a remnant within them will return; A destruction is determined, overflowing with righteousness.
 
 ---
 
 1:4 - וְנָטִ֤יתִי יָדִי֙
+במדבר ד,לד
 
-במ״ ד״לד
 וּבִזְר֣וֹעַ נְטוּיָ֔ה
 
 Example of 'outstretched hand' pointed out by KD, but sharing more because of the beautiful passage
 
 וּבִזְר֣וֹעַ נְטוּיָ֔ה
  א֣וֹ׀ הֲנִסָּ֣ה אֱלֹהִ֗ים לָ֠בוֹא לָקַ֨חַת ל֣וֹ גוֹי֮ מִקֶּ֣רֶב גּוֹי֒ בְּמַסֹּת֩ בְּאֹתֹ֨ת וּבְמוֹפְתִ֜ים וּבְמִלְחָמָ֗ה וּבְיָ֤ד חֲזָקָה֙ וּבִזְר֣וֹעַ נְטוּיָ֔ה וּבְמוֹרָאִ֖ים גְּדֹלִ֑ים כְּ֠כֹל אֲשֶׁר־עָשָׂ֨ה לָכֶ֜ם יְהוָ֧ה אֱלֹהֵיכֶ֛ם בְּמִצְרַ֖יִם לְעֵינֶֽיךָ׃
+ ־ במדבר ד,לד
 ---
 
 1:5 ־ אֶת־שְׁאָ֣ר הַבַּ֔עַל אֶת־שֵׁ֥ם הַכְּמָרִ֖ים עִם־הַכֹּהֲנִֽים׃
 
-וְהִשְׁבִּ֣ית אֶת־הַכְּמָרִ֗ים אֲשֶׁ֤ר נָֽתְנוּ֙ מַלְכֵ֣י יְהוּדָ֔ה וַיְקַטֵּ֤ר בַּבָּמוֹת֙ בְּעָרֵ֣י יְהוּדָ֔ה וּמְסִבֵּ֖י יְרוּשָׁלִָ֑ם וְאֶת־הַֽמְקַטְּרִ֣ים לַבַּ֗עַל לַשֶּׁ֤מֶשׁ וְלַיָּרֵ֙חַ֙ וְלַמַּזָּל֔וֹת וּלְכֹ֖ל צְבָ֥א הַשָּׁמָֽיִם׃ ־־ מ״א כג״ה 
+וְהִשְׁבִּ֣ית אֶת־הַכְּמָרִ֗ים אֲשֶׁ֤ר נָֽתְנוּ֙ מַלְכֵ֣י יְהוּדָ֔ה וַיְקַטֵּ֤ר בַּבָּמוֹת֙ בְּעָרֵ֣י יְהוּדָ֔ה וּמְסִבֵּ֖י יְרוּשָׁלִָ֑ם וְאֶת־הַֽמְקַטְּרִ֣ים לַבַּ֗עַל לַשֶּׁ֤מֶשׁ וְלַיָּרֵ֙חַ֙ וְלַמַּזָּל֔וֹת וּלְכֹ֖ל צְבָ֥א הַשָּׁמָֽיִם׃
+־ צפנ א,ה
 
 'And he did away with the idolatrous priests whom the kings of Judah had appointed and who burn incense in the high places in the cities of Judah and in the surrounding area of Jerusalem, as well as those who burned incense to Baal, to the sun and to the moon and to the constellations and to all the host of heaven." - 2Kng 23:5 LSB
 
@@ -138,8 +148,9 @@ KD:
 
 > Malkâm, their king, is Baal, who is distinctly called king in the inscriptions (see Movers, Phönizier, i. pp. 171–2), and not the “earthly king of the nation,” as Hitzig has erroneously interpreted the Masoretic text, in consequence of which he proposes to read milkōm, i.e., Moloch.
 
-Jeremiah 19:13 / יר״ יט״יג
-> 13 וְהָי֞וּ בָּתֵּ֣י יְרוּשָׁלִַ֗ם וּבָתֵּי֙ מַלְכֵ֣י יְהוּדָ֔ה כִּמְק֥וֹם הַתֹּ֖פֶת הַטְּמֵאִ֑ים לְכֹ֣ל הַבָּתִּ֗ים אֲשֶׁ֨ר קִטְּר֜וּ עַל־גַּגֹּֽתֵיהֶם֙ לְכֹל֙ צְבָ֣א הַשָּׁמַ֔יִם וְהַסֵּ֥ךְ נְסָכִ֖ים לֵאלֹהִ֥ים אֲחֵרִֽים׃
+Jeremiah 19:13
+> 13 וְהָי֞וּ בָּתֵּ֣י יְרוּשָׁלִַ֗ם וּבָתֵּי֙ מַלְכֵ֣י יְהוּדָ֔ה כִּמְק֥וֹם הַתֹּ֖פֶת הַטְּמֵאִ֑ים לְכֹ֣ל הַבָּתִּ֗ים אֲשֶׁ֨ר קִטְּר֜וּ עַל־גַּגֹּֽתֵיהֶם֙ לְכֹל֙ צְבָ֣א הַשָּׁמַ֔יִם וְהַסֵּ֥ךְ נְסָכִ֖ים לֵאלֹהִ֥ים אֲחֵרִֽים׃ 
+־ ירמ יט,יג
 
 ---
 
@@ -153,12 +164,10 @@ And note 69:
 
 - Barker, NAC 421
 
-- 
-
 מִלְכֹּ֔ם
 
 וַיֵּ֣לֶךְ שְׁלֹמֹ֔ה אַחֲרֵ֣י עַשְׁתֹּ֔רֶת אֱלֹהֵ֖י צִדֹנִ֑ים וְאַחֲרֵ֣י מִלְכֹּ֔ם שִׁקֻּ֖ץ עַמֹּנִֽים׃
-- מל״א יא״ה
+־ מלכא יא,ה
 
 For Solomon went after Ashtoreth the goddess of the Sidonians, and after Milcom the abomination of the Ammonites.
 
@@ -166,7 +175,12 @@ For Solomon went after Ashtoreth the goddess of the Sidonians, and after Milcom 
 
 3 וַיִּרָ֕א וַיִתֵּ֧ן יְהוֹשָׁפָ֛ט אֶת־פָּנָ֖יו לִדְר֣וֹשׁ לַיהוָ֑ה וַיִּקְרָא־צ֖וֹם עַל־כָּל־יְהוּדָֽה׃
 4 וַיִּקָּבְצ֣וּ יְהוּדָ֔ה לְבַקֵּ֖שׁ מֵֽיְהוָ֑ה גַּ֚ם מִכָּל־עָרֵ֣י יְהוּדָ֔ה בָּ֖אוּ לְבַקֵּ֥שׁ אֶת־יְהוָֽה׃
-דה״ב כ״ג
+־ דהיב כ,ג־ד
 
 "And Jehoshaphat was afraid and set his face to seek Yahweh, and called for a fast throughout all Judah. So Judah gathered together to seek [help] from Yahweh; they even came from all the cities of Judah to seek Yahweh." - 2Chr 20:3-4 LSB
 
+--- 1:7
+
+"Day of YHWH"
+
+"who introduces the book’s central theme: the day of the Lord." - Barker, Zephaniah 424
