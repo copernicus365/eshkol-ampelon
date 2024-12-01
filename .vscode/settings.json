@@ -1,7 +1,7 @@
 {
     "editor.fontFamily": "Menlo, Arial, Monaco, 'Courier New', monospace",
     "window.zoomLevel": 1,
-    "editor.fontSize": 16,
+    "editor.fontSize": 19,
     "editor.fontVariations": true,
     "asciidoc.antora.enableAntoraSupport": false,
     "dotnet.defaultSolution": "disable",
