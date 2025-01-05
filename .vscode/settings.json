@@ -1,5 +1,6 @@
 {
-    "editor.fontFamily": "Menlo, Arial, Monaco, 'Courier New', monospace",
+    //"editor.fontFamily": "Menlo, Arial, Monaco, 'Courier New', monospace",
+    "editor.fontFamily": "Fira Code",
     "window.zoomLevel": 1,
     "editor.fontSize": 19,
     "editor.fontVariations": true,
