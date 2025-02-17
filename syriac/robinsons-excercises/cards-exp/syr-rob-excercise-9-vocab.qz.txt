@@ -2,9 +2,111 @@
 
 https://quizlet.com/000000000
 
-ܡܺܝܬ݂ܰܬ݂
-מֵתָה
+ܕ݁ܠܴܐ ܫܰܠܻܝܬ
 +
-she has died, +Heb
-Qal green stative fem.
+what is not lawful
+---
+ܕ݁ܠܴܐ -> Heb
++
+ללא / בלִי
+---
+ܕ݁ܠܴܐ desc
++
+used to negate an adj or noun
+---
+ܕ݁ܠܴܐ ܡܶܢܝܳܢ
++
+without number
+---
+ܕ݁ܒ݂ܰܪ
++
+lead
+---
+ܢܦ݂ܰܠ
++
+fall
+---
+ܩܛܰܠ
++
+kill
+---
+ܪܓ݂ܰܡ
++
+stone (v)
+---
+ܢܛܰܪ
++
+keep
+---
+ܥܒ݂ܰܕ݂
++
+to do, make
+---
+ܥܒ݂ܰܪ
++
+transgress
+---
+ܛܽܘܪܳܐ
++
+mountain
+---
+ܛܰܠܝܽܘܬ݂ܳܐ
++
+youth(fulness)
+---
+ܩܳܠܴܐ
++
+voice
+---
+ܟܱ݁ܕ݂
++
+when
+---
+ܢܣܰܒ݂
++
+receive
+---
+ܡܰܠܦ݂ܳܢܳܐ + Heb
++
+teacher
+מלַמֵד
+---
+ܟܷ݁ܢܫܳܐ
++
+crowd
+---
+ܫܠܻܝܚ
++
+sent
+---
+ܫܡܰܥ
++
+hear
+---
+ܟ݁ܬ݂ܰܒ݂
++
+write
+---
+ܣܗܶܕ݂
++
+witness
+---
+ܪܳܡ
++
+high
+---
+ܫܰܠܻܝܛ
++
+lawful
+---
+ܡܺܝܬ݁
++
+dead
+---
+ܐܽܘܪܺܫܠܶܡ
++
+Jerusalem
+---
+
++
 ---
