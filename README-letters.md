@@ -16,51 +16,59 @@ On Mac, wonderfully OS lang settings can set that Caps Lock press switches betwe
 
 ## Syriac Mac keyboard:
 
-Using Syriac QWERTY keyboard:
-
 ܠܴܐ ܢܶܬ݁ܕܱ݁ܘܰܕ݂ ܠܷܒ݁ܟ݂ܽܘܢ
 
-Top QWERTY row =
+Using Syriac QWERTY keyboard:
 
-Q: ܰ
-W: ܳ
-E: ܶ
-R: ܺ
-T: ܽ
+Top QWERTY row
+
+Q: ܒܰ
+W: ܒܳ
+E: ܒܶ
+R: ܒܺ
+T: ܒܽ
 
 Row below:
 
-A: ܱ
-S: ܴ
-D: ܷ
-F: ܻ
-G: ܾ
+A: ܒܱ
+S: ܒܴ
+D: ܒܷ
+F: ܒܻ
+G: ܒܾ
 
+Last row (old / Eastern? line based):
+
+Z: ܒܲ
+X: ܒܵ
+C: ܒܸ
+V: ܒܼ
+B: ܒܿ
+
+ܬ݂: M + shift - RUKKAKHA
+ܬ݁: M + shift + option - QUSHSHAYA (hard, above)
+ܘ̈: Y + shift - plural dots -- "COMBINING DIAERESIS" (i.e. see "syāmē" below)
 ܀: shift + comma
+ܐ܆: \ + shift - Syriac colon skewed left
+ܗ̱: L + shift
 
-ܬ݂: RUKKAKHA                 - m + shift
-ܬ݁: QUSHSHAYA (hard, above)  - m + shift + opt
-
-RUKKAKHA: 'm' key,
-m+shift = RUKKAKHA (aspirated, under)
-m+shift+opt = QUSHSHAYA (hard, above)
 
 ```
-Info for string ܕܕܕ ܬ݁ܐ ܬ݂ܐ
+Info for string ܬ݁ܐ ܬ݂ܐ
 1836     072C     ܬ     SYRIAC LETTER TAW
-
 1857     0741     ݁     SYRIAC QUSHSHAYA
-
 1808     0710     ܐ     SYRIAC LETTER ALAPH
-
 32     0020         SPACE
-
 1836     072C     ܬ     SYRIAC LETTER TAW
-
 1858     0742     ݂     SYRIAC RUKKAKHA
-
 1808     0710     ܐ     SYRIAC LETTER ALAPH
+---
+܆   SYRIAC COLON SKEWED LEFT
+ ̈   COMBINING DIAERESIS
 ```
+
+### On syāmē: syāmē, ܣܝ̈ܡܐ ex: ܡܠܟ̈ܐ، ܟܷ݁ܢܫܷ̈ܐ
+
+> Syriac uses two (usually) horizontal dots[f] above a letter within a word, similar in appearance to diaeresis, called syāmē (ܣܝ̈ܡܐ, literally 'placings', also known in some grammars by the Hebrew name ribbūi [רִבּוּי], 'plural'), to indicate that the word is plural. These dots, having no sound value in themselves, arose before both eastern and western vowel systems ... [wiki](https://en.wikipedia.org/wiki/Syriac_alphabet#Sy%C4%81m%C4%93)
 
 ܠܴܐ ܢܶܬ݁ܕܱ݁ܘܰܕ݂ ܠܷܒ݁ܟ݂ܽܘܢ
 
