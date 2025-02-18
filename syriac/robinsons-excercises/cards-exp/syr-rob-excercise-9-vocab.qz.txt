@@ -2,6 +2,8 @@
 
 https://quizlet.com/000000000
 
+Tape 23:10 mark
+
 ܕ݁ܠܴܐ ܫܰܠܻܝܬ
 +
 what is not lawful
@@ -49,10 +51,12 @@ transgress
 ܛܽܘܪܳܐ
 +
 mountain
+cognate of Heb צוּר
 ---
 ܛܰܠܝܽܘܬ݂ܳܐ
+ܛܰܠܝܽܘܳܬ݂ܳܐ
 +
-youth(fulness)
+youth(fulness), + plural
 ---
 ܩܳܠܴܐ
 +
@@ -64,9 +68,14 @@ when
 ---
 ܢܣܰܒ݂
 +
-receive
+take, receive
+---
+Heb of ܢܣܰܒ݂
++
+לָקַח
 ---
 ܡܰܠܦ݂ܳܢܳܐ + Heb
+(dagesh in the lamed = dropped alef! thus the soft ܦ݂ - mallphono, pa'el participle formation)
 +
 teacher
 מלַמֵד
