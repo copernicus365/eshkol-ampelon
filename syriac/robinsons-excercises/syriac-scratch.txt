@@ -1,0 +1,6 @@
+On Mac I open this doc in CotEditor with remembered font settings below (between the ܒ), with a set Syriac font () and large size. Is easier to write out Syriac then in vscode. Currently using SertoUrhoyRegula, 28 size
+
+ܒ
+  ܐܽܘܪܺܫܠܶܡ ܐܽܘܪܺܫܠܶܡ ܩܛܰܠܬ݁ܝ ܢܒ݂ܺܝܷ̈ܐ ܘܰܪܓ݂ܰܡܬ݁ܝ ܠܰܐܝܠܶܝܢ ܕ݁ܰܫܠܻܝܚܺܝܢ ܠܘܳܬ݂ܶܟ݂ܝ܀   
+
+ܒ
