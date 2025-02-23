@@ -23,7 +23,7 @@ Ye have heard that it is written in the Torah, that David did that which is not 
 And the crowds said to him: We heard from the Law that the kingdom of heaven is forever.
 ---
 #5 ܟ݁ܶܬܒ݁ܶܬ݂ ܠܟ݂ܽܘ̇ܢ ܐܰܒ݂ܳܗܷ̈ܐ ܡܶܛܽܠ ܕܰܫܡܰܥܬܾ݁ܘ̇ܢ ܠܗܰܘ ܕܻ݁ܐܝܬ݂ܰܘܗ̱ܝ ܗ̱ܘܳܐ ܡܶܢ ܒ݁ܪܻܝܫܻܝܬ݂܀
-ܠܗܰܘ = DO, את מי שהיה
+ܠܗܰܘ ܕܻ݁ܐܝܬ݂ܰܘܗ̱ܝ ܗ̱ܘܳܐ = DO, את מי שהיה
 +
 I wrote to ye Fathers, because ye heard the one (m) who was from the beginning.
 ---
@@ -123,12 +123,12 @@ I haven't fallen, for I have kept my feet.
 
 ܢܶܛܪܶܬ݂ ܓ݁ܶܝܪ - see that ܓ݁ܶܝܪ, that immediately tells you that one word back there is a comma"
 ---
+In Heb: ܠܳܐ ܢܶܦ݂ܠܶܬ݂ ܢܶܛܪܶܬ݂ ܓ݁ܶܝܪ ܪ̈ܶܓ݂ܠܰܝ܀
++
+לא נָפַלתי, כי שָמַרתי את רַגלַי
+---
 #16 ܐܽܘܪܺܫܠܶܡ ܐܽܘܪܺܫܠܶܡ ܩܛܰܠܬ݁ܝ ܢܒ݂ܺܝܷ̈ܐ ܘܰܪܓ݂ܰܡܬ݁ܝ ܠܰܐܝܠܶܝܢ ܕ݁ܰܫܠܻܝܚܺܝܢ ܠܘܳܬ݂ܶܟ݂ܝ܀
 +
 Jerusalem, Jerusalem, you have killed the prophets and stoned those who (are / were) sent to you.
 ("Jerusalem is feminine, therefore ketalt with that yud is 2fs")
----
-In Heb: ܠܳܐ ܢܶܦ݂ܠܶܬ݂ ܢܶܛܪܶܬ݂ ܓ݁ܶܝܪ ܪ̈ܶܓ݂ܠܰܝ܀
-+
-לא נָפַלתי, כי שָמַרתי את רַגלַי
 ---
